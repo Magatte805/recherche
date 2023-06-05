@@ -1,0 +1,3201 @@
+{
+    "01004": {
+          "nomActuel": "Amb\u00c3\u00a9rieu-en-Bugey",
+          "lat": "45.963055555555556",
+          "lon": "5.354166666666666",
+          "noms": [
+                "Amb\u00c3\u00a9rieu-en-Bugey",
+                "Amb\u00c3\u00a9rieu"
+          ]
+    },
+    "01005": {
+          "nomActuel": "Amb\u00c3\u00a9rieux-en-Dombes",
+          "lat": "45.99916666666667",
+          "lon": "4.903333333333333",
+          "noms": [
+                "Amb\u00c3\u00a9rieux-en-Dombes"
+          ]
+    },
+    "01006": {
+          "nomActuel": "Ambl\u00c3\u00a9on",
+          "lat": "45.75",
+          "lon": "5.601666666666667",
+          "noms": [
+                "Ambl\u00c3\u00a9on"
+          ]
+    },
+    "01007": {
+          "nomActuel": "Ambronay",
+          "lat": "46.006388888888885",
+          "lon": "5.361111111111111",
+          "noms": [
+                "Ambronay"
+          ]
+    },
+    "01008": {
+          "nomActuel": "Ambutrix",
+          "lat": "45.939722222222215",
+          "lon": "5.338888888888889",
+          "noms": [
+                "Ambutrix"
+          ]
+    },
+    "01009": {
+          "nomActuel": "Andert-et-Condon",
+          "lat": "45.79527777777778",
+          "lon": "5.655833333333334",
+          "noms": [
+                "Andert-et-Condon"
+          ]
+    },
+    "01010": {
+          "nomActuel": "Anglefort",
+          "lat": "45.91305555555555",
+          "lon": "5.809166666666666",
+          "noms": [
+                "Anglefort"
+          ]
+    },
+    "01011": {
+          "nomActuel": "Apremont",
+          "lat": "46.20777777777778",
+          "lon": "5.657222222222223",
+          "noms": [
+                "Apremont"
+          ]
+    },
+    "01012": {
+          "nomActuel": "Aranc",
+          "lat": "46.00527777777778",
+          "lon": "5.51",
+          "noms": [
+                "Aranc"
+          ]
+    },
+    "01013": {
+          "nomActuel": "Arandas",
+          "lat": "45.895833333333336",
+          "lon": "5.487222222222222",
+          "noms": [
+                "Arandas"
+          ]
+    },
+    "01014": {
+          "nomActuel": "Arbent",
+          "lat": "46.296388888888885",
+          "lon": "5.6819444444444445",
+          "noms": [
+                "Arbent"
+          ]
+    },
+    "01016": {
+          "nomActuel": "Arbigny",
+          "lat": "46.470555555555556",
+          "lon": "4.963333333333334",
+          "noms": [
+                "Arbigny"
+          ]
+    },
+    "01015": {
+          "nomActuel": "Arboys en Bugey",
+          "lat": "45.72944444444445",
+          "lon": "5.651111111111112",
+          "noms": [
+                "Arboys en Bugey"
+          ]
+    },
+    "01017": {
+          "nomActuel": "Argis",
+          "lat": "45.93472222222222",
+          "lon": "5.491666666666667",
+          "noms": [
+                "Argis"
+          ]
+    },
+    "01019": {
+          "nomActuel": "Armix",
+          "lat": "45.85",
+          "lon": "5.586388888888888",
+          "noms": [
+                "Armix"
+          ]
+    },
+    "01021": {
+          "nomActuel": "Ars-sur-Formans",
+          "lat": "45.99277777777778",
+          "lon": "4.823611111111111",
+          "noms": [
+                "Ars-sur-Formans",
+                "Ars"
+          ]
+    },
+    "01022": {
+          "nomActuel": "Artemare",
+          "lat": "45.875277777777775",
+          "lon": "5.693611111111111",
+          "noms": [
+                "Artemare",
+                "Yon-Artemare"
+          ]
+    },
+    "01453": {
+          "nomActuel": "Arvi\u00c3\u00a8re-en-Valromey",
+          "lat": "45.90833333333333",
+          "lon": "5.725555555555555",
+          "noms": [
+                "Arvi\u00c3\u00a8re-en-Valromey"
+          ]
+    },
+    "01023": {
+          "nomActuel": "Asni\u00c3\u00a8res-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.38305555555556",
+          "lon": "4.883333333333333",
+          "noms": [
+                "Asni\u00c3\u00a8res-sur-Sa\u00c3\u00b4ne",
+                "Asni\u00c3\u00a8res"
+          ]
+    },
+    "01024": {
+          "nomActuel": "Attignat",
+          "lat": "46.28805555555555",
+          "lon": "5.160555555555556",
+          "noms": [
+                "Attignat"
+          ]
+    },
+    "01025": {
+          "nomActuel": "B\u00c3\u00a2g\u00c3\u00a9-Dommartin",
+          "lat": "46.315555555555555",
+          "lon": "4.945277777777778",
+          "noms": [
+                "B\u00c3\u00a2g\u00c3\u00a9-Dommartin"
+          ]
+    },
+    "01026": {
+          "nomActuel": "B\u00c3\u00a2g\u00c3\u00a9-le-Ch\u00c3\u00a2tel",
+          "lat": "46.308611111111105",
+          "lon": "4.930277777777778",
+          "noms": [
+                "B\u00c3\u00a2g\u00c3\u00a9-le-Ch\u00c3\u00a2tel"
+          ]
+    },
+    "01027": {
+          "nomActuel": "Balan",
+          "lat": "45.835",
+          "lon": "5.099166666666666",
+          "noms": [
+                "Balan"
+          ]
+    },
+    "01028": {
+          "nomActuel": "Baneins",
+          "lat": "46.11055555555556",
+          "lon": "4.902500000000001",
+          "noms": [
+                "Baneins"
+          ]
+    },
+    "01170": {
+          "nomActuel": "B\u00c3\u00a9ard-G\u00c3\u00a9ovreissiat",
+          "lat": "46.190555555555555",
+          "lon": "5.5575",
+          "noms": [
+                "B\u00c3\u00a9ard-G\u00c3\u00a9ovreissiat",
+                "G\u00c3\u00a9ovreissiat"
+          ]
+    },
+    "01029": {
+          "nomActuel": "Beaupont",
+          "lat": "46.41138888888889",
+          "lon": "5.266944444444444",
+          "noms": [
+                "Beaupont"
+          ]
+    },
+    "01030": {
+          "nomActuel": "Beauregard",
+          "lat": "46.00277777777778",
+          "lon": "4.751944444444445",
+          "noms": [
+                "Beauregard"
+          ]
+    },
+    "01032": {
+          "nomActuel": "B\u00c3\u00a9ligneux",
+          "lat": "45.86611111111111",
+          "lon": "5.116666666666666",
+          "noms": [
+                "B\u00c3\u00a9ligneux"
+          ]
+    },
+    "01034": {
+          "nomActuel": "Belley",
+          "lat": "45.75944444444445",
+          "lon": "5.686388888888889",
+          "noms": [
+                "Belley"
+          ]
+    },
+    "01035": {
+          "nomActuel": "Belleydoux",
+          "lat": "46.25277777777778",
+          "lon": "5.7747222222222225",
+          "noms": [
+                "Belleydoux"
+          ]
+    },
+    "01031": {
+          "nomActuel": "Bellignat",
+          "lat": "46.2425",
+          "lon": "5.627222222222223",
+          "noms": [
+                "Bellignat",
+                "B\u00c3\u00a9lignat"
+          ]
+    },
+    "01037": {
+          "nomActuel": "B\u00c3\u00a9nonces",
+          "lat": "45.82805555555556",
+          "lon": "5.474444444444445",
+          "noms": [
+                "B\u00c3\u00a9nonces"
+          ]
+    },
+    "01038": {
+          "nomActuel": "B\u00c3\u00a9ny",
+          "lat": "46.31944444444445",
+          "lon": "5.283333333333333",
+          "noms": [
+                "B\u00c3\u00a9ny"
+          ]
+    },
+    "01040": {
+          "nomActuel": "B\u00c3\u00a9r\u00c3\u00a9ziat",
+          "lat": "46.367777777777775",
+          "lon": "5.046666666666667",
+          "noms": [
+                "B\u00c3\u00a9r\u00c3\u00a9ziat"
+          ]
+    },
+    "01041": {
+          "nomActuel": "Bettant",
+          "lat": "45.942499999999995",
+          "lon": "5.365833333333333",
+          "noms": [
+                "Bettant"
+          ]
+    },
+    "01042": {
+          "nomActuel": "Bey",
+          "lat": "46.21138888888889",
+          "lon": "4.846388888888889",
+          "noms": [
+                "Bey"
+          ]
+    },
+    "01043": {
+          "nomActuel": "Beynost",
+          "lat": "45.84",
+          "lon": "4.999444444444444",
+          "noms": [
+                "Beynost"
+          ]
+    },
+    "01044": {
+          "nomActuel": "Billiat",
+          "lat": "46.07805555555556",
+          "lon": "5.782777777777778",
+          "noms": [
+                "Billiat"
+          ]
+    },
+    "01045": {
+          "nomActuel": "Birieux",
+          "lat": "45.95333333333333",
+          "lon": "5.0408333333333335",
+          "noms": [
+                "Birieux"
+          ]
+    },
+    "01046": {
+          "nomActuel": "Biziat",
+          "lat": "46.216944444444444",
+          "lon": "4.943611111111111",
+          "noms": [
+                "Biziat"
+          ]
+    },
+    "01047": {
+          "nomActuel": "Blyes",
+          "lat": "45.84666666666667",
+          "lon": "5.249722222222222",
+          "noms": [
+                "Blyes"
+          ]
+    },
+    "01245": {
+          "nomActuel": "Bohas-Meyriat-Rignat",
+          "lat": "46.13722222222222",
+          "lon": "5.391111111111112",
+          "noms": [
+                "Bohas-Meyriat-Rignat"
+          ]
+    },
+    "01050": {
+          "nomActuel": "Boissey",
+          "lat": "46.38111111111111",
+          "lon": "4.9944444444444445",
+          "noms": [
+                "Boissey"
+          ]
+    },
+    "01051": {
+          "nomActuel": "Bolozon",
+          "lat": "46.19277777777778",
+          "lon": "5.472777777777778",
+          "noms": [
+                "Bolozon"
+          ]
+    },
+    "01052": {
+          "nomActuel": "Bouligneux",
+          "lat": "46.02444444444444",
+          "lon": "4.990277777777778",
+          "noms": [
+                "Bouligneux"
+          ]
+    },
+    "01053": {
+          "nomActuel": "Bourg-en-Bresse",
+          "lat": "46.205555555555556",
+          "lon": "5.228888888888889",
+          "noms": [
+                "Bourg-en-Bresse",
+                "Bourg"
+          ]
+    },
+    "01054": {
+          "nomActuel": "Bourg-Saint-Christophe",
+          "lat": "45.89111111111111",
+          "lon": "5.161666666666667",
+          "noms": [
+                "Bourg-Saint-Christophe"
+          ]
+    },
+    "01056": {
+          "nomActuel": "Boyeux-Saint-J\u00c3\u00a9r\u00c3\u00b4me",
+          "lat": "46.03055555555555",
+          "lon": "5.457222222222223",
+          "noms": [
+                "Boyeux-Saint-J\u00c3\u00a9r\u00c3\u00b4me",
+                "Saint-J\u00c3\u00a9r\u00c3\u00b4me"
+          ]
+    },
+    "01057": {
+          "nomActuel": "Boz",
+          "lat": "46.407777777777774",
+          "lon": "4.910277777777778",
+          "noms": [
+                "Boz"
+          ]
+    },
+    "01058": {
+          "nomActuel": "Br\u00c3\u00a9gnier-Cordon",
+          "lat": "45.65",
+          "lon": "5.620277777777778",
+          "noms": [
+                "Br\u00c3\u00a9gnier-Cordon"
+          ]
+    },
+    "01060": {
+          "nomActuel": "Br\u00c3\u00a9nod",
+          "lat": "46.061388888888885",
+          "lon": "5.606111111111111",
+          "noms": [
+                "Br\u00c3\u00a9nod"
+          ]
+    },
+    "01061": {
+          "nomActuel": "Brens",
+          "lat": "45.718611111111116",
+          "lon": "5.695833333333334",
+          "noms": [
+                "Brens"
+          ]
+    },
+    "01130": {
+          "nomActuel": "Bresse Vallons",
+          "lat": "46.30916666666666",
+          "lon": "5.166388888888889",
+          "noms": [
+                "Bresse Vallons"
+          ]
+    },
+    "01062": {
+          "nomActuel": "Bressolles",
+          "lat": "45.86694444444444",
+          "lon": "5.096111111111111",
+          "noms": [
+                "Bressolles"
+          ]
+    },
+    "01063": {
+          "nomActuel": "Brion",
+          "lat": "46.1725",
+          "lon": "5.5552777777777775",
+          "noms": [
+                "Brion"
+          ]
+    },
+    "01064": {
+          "nomActuel": "Briord",
+          "lat": "45.78333333333333",
+          "lon": "5.460833333333333",
+          "noms": [
+                "Briord"
+          ]
+    },
+    "01065": {
+          "nomActuel": "Buellas",
+          "lat": "46.211111111111116",
+          "lon": "5.132222222222222",
+          "noms": [
+                "Buellas"
+          ]
+    },
+    "01067": {
+          "nomActuel": "Ceignes",
+          "lat": "46.12083333333334",
+          "lon": "5.498333333333333",
+          "noms": [
+                "Ceignes",
+                "\u00c3\u2030tables"
+          ]
+    },
+    "01068": {
+          "nomActuel": "Cerdon",
+          "lat": "46.083333333333336",
+          "lon": "5.464722222222222",
+          "noms": [
+                "Cerdon"
+          ]
+    },
+    "01069": {
+          "nomActuel": "Certines",
+          "lat": "46.13305555555556",
+          "lon": "5.266944444444444",
+          "noms": [
+                "Certines"
+          ]
+    },
+    "01071": {
+          "nomActuel": "Cessy",
+          "lat": "46.31916666666667",
+          "lon": "6.069999999999999",
+          "noms": [
+                "Cessy"
+          ]
+    },
+    "01072": {
+          "nomActuel": "Ceyz\u00c3\u00a9riat",
+          "lat": "46.178888888888885",
+          "lon": "5.323888888888889",
+          "noms": [
+                "Ceyz\u00c3\u00a9riat"
+          ]
+    },
+    "01073": {
+          "nomActuel": "Ceyz\u00c3\u00a9rieu",
+          "lat": "45.83583333333333",
+          "lon": "5.726944444444444",
+          "noms": [
+                "Ceyz\u00c3\u00a9rieu"
+          ]
+    },
+    "01074": {
+          "nomActuel": "Chalamont",
+          "lat": "45.99638888888889",
+          "lon": "5.171944444444445",
+          "noms": [
+                "Chalamont"
+          ]
+    },
+    "01075": {
+          "nomActuel": "Chaleins",
+          "lat": "46.03138888888889",
+          "lon": "4.8052777777777775",
+          "noms": [
+                "Chaleins"
+          ]
+    },
+    "01076": {
+          "nomActuel": "Chaley",
+          "lat": "45.95444444444445",
+          "lon": "5.531944444444444",
+          "noms": [
+                "Chaley"
+          ]
+    },
+    "01077": {
+          "nomActuel": "Challes-la-Montagne",
+          "lat": "46.12638888888889",
+          "lon": "5.463333333333334",
+          "noms": [
+                "Challes-la-Montagne",
+                "Challes"
+          ]
+    },
+    "01078": {
+          "nomActuel": "Challex",
+          "lat": "46.18138888888889",
+          "lon": "5.975833333333333",
+          "noms": [
+                "Challex"
+          ]
+    },
+    "01079": {
+          "nomActuel": "Champagne-en-Valromey",
+          "lat": "45.904444444444444",
+          "lon": "5.679444444444445",
+          "noms": [
+                "Champagne-en-Valromey",
+                "Champagne"
+          ]
+    },
+    "01080": {
+          "nomActuel": "Champdor-Corcelles",
+          "lat": "46.018055555555556",
+          "lon": "5.597777777777777",
+          "noms": [
+                "Champdor-Corcelles"
+          ]
+    },
+    "01081": {
+          "nomActuel": "Champfromier",
+          "lat": "46.19583333333333",
+          "lon": "5.811111111111111",
+          "noms": [
+                "Champfromier"
+          ]
+    },
+    "01082": {
+          "nomActuel": "Chanay",
+          "lat": "46.006388888888885",
+          "lon": "5.783055555555555",
+          "noms": [
+                "Chanay"
+          ]
+    },
+    "01083": {
+          "nomActuel": "Chaneins",
+          "lat": "46.097500000000004",
+          "lon": "4.852777777777778",
+          "noms": [
+                "Chaneins"
+          ]
+    },
+    "01084": {
+          "nomActuel": "Chanoz-Ch\u00c3\u00a2tenay",
+          "lat": "46.184999999999995",
+          "lon": "5.030833333333334",
+          "noms": [
+                "Chanoz-Ch\u00c3\u00a2tenay"
+          ]
+    },
+    "01087": {
+          "nomActuel": "Charix",
+          "lat": "46.18416666666666",
+          "lon": "5.684722222222223",
+          "noms": [
+                "Charix"
+          ]
+    },
+    "01088": {
+          "nomActuel": "Charnoz-sur-Ain",
+          "lat": "45.87305555555555",
+          "lon": "5.2225",
+          "noms": [
+                "Charnoz-sur-Ain",
+                "Charnoz"
+          ]
+    },
+    "01089": {
+          "nomActuel": "Ch\u00c3\u00a2teau-Gaillard",
+          "lat": "45.97277777777778",
+          "lon": "5.303611111111111",
+          "noms": [
+                "Ch\u00c3\u00a2teau-Gaillard"
+          ]
+    },
+    "01090": {
+          "nomActuel": "Ch\u00c3\u00a2tenay",
+          "lat": "46.034166666666664",
+          "lon": "5.202222222222223",
+          "noms": [
+                "Ch\u00c3\u00a2tenay"
+          ]
+    },
+    "01092": {
+          "nomActuel": "Ch\u00c3\u00a2tillon-la-Palud",
+          "lat": "45.97694444444445",
+          "lon": "5.249722222222222",
+          "noms": [
+                "Ch\u00c3\u00a2tillon-la-Palud"
+          ]
+    },
+    "01093": {
+          "nomActuel": "Ch\u00c3\u00a2tillon-sur-Chalaronne",
+          "lat": "46.12166666666667",
+          "lon": "4.9558333333333335",
+          "noms": [
+                "Ch\u00c3\u00a2tillon-sur-Chalaronne"
+          ]
+    },
+    "01094": {
+          "nomActuel": "Chavannes-sur-Reyssouze",
+          "lat": "46.431666666666665",
+          "lon": "4.993888888888889",
+          "noms": [
+                "Chavannes-sur-Reyssouze"
+          ]
+    },
+    "01096": {
+          "nomActuel": "Chaveyriat",
+          "lat": "46.198611111111106",
+          "lon": "5.061111111111111",
+          "noms": [
+                "Chaveyriat"
+          ]
+    },
+    "01098": {
+          "nomActuel": "Chazey-Bons",
+          "lat": "45.80333333333333",
+          "lon": "5.682222222222222",
+          "noms": [
+                "Chazey-Bons"
+          ]
+    },
+    "01099": {
+          "nomActuel": "Chazey-sur-Ain",
+          "lat": "45.89333333333333",
+          "lon": "5.255833333333333",
+          "noms": [
+                "Chazey-sur-Ain"
+          ]
+    },
+    "01100": {
+          "nomActuel": "Cheignieu-la-Balme",
+          "lat": "45.827222222222225",
+          "lon": "5.60861111111111",
+          "noms": [
+                "Cheignieu-la-Balme"
+          ]
+    },
+    "01101": {
+          "nomActuel": "Chevillard",
+          "lat": "46.11",
+          "lon": "5.580555555555556",
+          "noms": [
+                "Chevillard"
+          ]
+    },
+    "01102": {
+          "nomActuel": "Chevroux",
+          "lat": "46.38138888888889",
+          "lon": "4.9494444444444445",
+          "noms": [
+                "Chevroux"
+          ]
+    },
+    "01103": {
+          "nomActuel": "Chevry",
+          "lat": "46.280833333333334",
+          "lon": "6.036944444444444",
+          "noms": [
+                "Chevry"
+          ]
+    },
+    "01104": {
+          "nomActuel": "Ch\u00c3\u00a9zery-Forens",
+          "lat": "46.22166666666667",
+          "lon": "5.866388888888888",
+          "noms": [
+                "Ch\u00c3\u00a9zery-Forens"
+          ]
+    },
+    "01105": {
+          "nomActuel": "Civrieux",
+          "lat": "45.92194444444444",
+          "lon": "4.881666666666667",
+          "noms": [
+                "Civrieux"
+          ]
+    },
+    "01106": {
+          "nomActuel": "Cize",
+          "lat": "46.20416666666667",
+          "lon": "5.445833333333334",
+          "noms": [
+                "Cize"
+          ]
+    },
+    "01107": {
+          "nomActuel": "Cleyzieu",
+          "lat": "45.9075",
+          "lon": "5.430277777777778",
+          "noms": [
+                "Cleyzieu"
+          ]
+    },
+    "01108": {
+          "nomActuel": "Coligny",
+          "lat": "46.38305555555556",
+          "lon": "5.346111111111111",
+          "noms": [
+                "Coligny"
+          ]
+    },
+    "01109": {
+          "nomActuel": "Collonges",
+          "lat": "46.13916666666667",
+          "lon": "5.905",
+          "noms": [
+                "Collonges"
+          ]
+    },
+    "01110": {
+          "nomActuel": "Colomieu",
+          "lat": "45.73361111111111",
+          "lon": "5.621666666666667",
+          "noms": [
+                "Colomieu"
+          ]
+    },
+    "01111": {
+          "nomActuel": "Conand",
+          "lat": "45.89277777777778",
+          "lon": "5.473333333333334",
+          "noms": [
+                "Conand"
+          ]
+    },
+    "01112": {
+          "nomActuel": "Condamine",
+          "lat": "46.10944444444445",
+          "lon": "5.551388888888889",
+          "noms": [
+                "Condamine"
+          ]
+    },
+    "01113": {
+          "nomActuel": "Condeissiat",
+          "lat": "46.166666666666664",
+          "lon": "5.078333333333333",
+          "noms": [
+                "Condeissiat"
+          ]
+    },
+    "01114": {
+          "nomActuel": "Confort",
+          "lat": "46.150555555555556",
+          "lon": "5.823611111111111",
+          "noms": [
+                "Confort"
+          ]
+    },
+    "01115": {
+          "nomActuel": "Confran\u00c3\u00a7on",
+          "lat": "46.268055555555556",
+          "lon": "5.065833333333333",
+          "noms": [
+                "Confran\u00c3\u00a7on"
+          ]
+    },
+    "01116": {
+          "nomActuel": "Contrevoz",
+          "lat": "45.80444444444444",
+          "lon": "5.6288888888888895",
+          "noms": [
+                "Contrevoz"
+          ]
+    },
+    "01117": {
+          "nomActuel": "Conzieu",
+          "lat": "45.727222222222224",
+          "lon": "5.6066666666666665",
+          "noms": [
+                "Conzieu"
+          ]
+    },
+    "01118": {
+          "nomActuel": "Corbonod",
+          "lat": "45.970555555555556",
+          "lon": "5.808888888888888",
+          "noms": [
+                "Corbonod"
+          ]
+    },
+    "01121": {
+          "nomActuel": "Corlier",
+          "lat": "46.031666666666666",
+          "lon": "5.496944444444445",
+          "noms": [
+                "Corlier"
+          ]
+    },
+    "01123": {
+          "nomActuel": "Cormoranche-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.24166666666667",
+          "lon": "4.831944444444444",
+          "noms": [
+                "Cormoranche-sur-Sa\u00c3\u00b4ne"
+          ]
+    },
+    "01124": {
+          "nomActuel": "Cormoz",
+          "lat": "46.44833333333333",
+          "lon": "5.230277777777778",
+          "noms": [
+                "Cormoz"
+          ]
+    },
+    "01125": {
+          "nomActuel": "Corveissiat",
+          "lat": "46.24388888888889",
+          "lon": "5.481944444444444",
+          "noms": [
+                "Corveissiat"
+          ]
+    },
+    "01127": {
+          "nomActuel": "Courmangoux",
+          "lat": "46.331944444444446",
+          "lon": "5.369722222222221",
+          "noms": [
+                "Courmangoux"
+          ]
+    },
+    "01128": {
+          "nomActuel": "Courtes",
+          "lat": "46.46",
+          "lon": "5.100833333333333",
+          "noms": [
+                "Courtes"
+          ]
+    },
+    "01129": {
+          "nomActuel": "Crans",
+          "lat": "45.96555555555556",
+          "lon": "5.1913888888888895",
+          "noms": [
+                "Crans"
+          ]
+    },
+    "01133": {
+          "nomActuel": "Cressin-Rochefort",
+          "lat": "45.778055555555554",
+          "lon": "5.761666666666667",
+          "noms": [
+                "Cressin-Rochefort"
+          ]
+    },
+    "01134": {
+          "nomActuel": "Crottet",
+          "lat": "46.278055555555554",
+          "lon": "4.892777777777777",
+          "noms": [
+                "Crottet"
+          ]
+    },
+    "01135": {
+          "nomActuel": "Crozet",
+          "lat": "46.28055555555555",
+          "lon": "6.0125",
+          "noms": [
+                "Crozet"
+          ]
+    },
+    "01136": {
+          "nomActuel": "Cruzilles-l\u00c3\u00a8s-M\u00c3\u00a9pillat",
+          "lat": "46.22555555555556",
+          "lon": "4.881388888888889",
+          "noms": [
+                "Cruzilles-l\u00c3\u00a8s-M\u00c3\u00a9pillat"
+          ]
+    },
+    "01138": {
+          "nomActuel": "Culoz-B\u00c3\u00a9on",
+          "lat": "45.85027777777778",
+          "lon": "5.7825",
+          "noms": [
+                "Culoz-B\u00c3\u00a9on"
+          ]
+    },
+    "01139": {
+          "nomActuel": "Curciat-Dongalon",
+          "lat": "46.47555555555556",
+          "lon": "5.158333333333334",
+          "noms": [
+                "Curciat-Dongalon"
+          ]
+    },
+    "01140": {
+          "nomActuel": "Curtafond",
+          "lat": "46.27333333333333",
+          "lon": "5.089444444444444",
+          "noms": [
+                "Curtafond"
+          ]
+    },
+    "01141": {
+          "nomActuel": "Cuzieu",
+          "lat": "45.818333333333335",
+          "lon": "5.685277777777778",
+          "noms": [
+                "Cuzieu"
+          ]
+    },
+    "01142": {
+          "nomActuel": "Dagneux",
+          "lat": "45.85138888888889",
+          "lon": "5.0777777777777775",
+          "noms": [
+                "Dagneux"
+          ]
+    },
+    "01143": {
+          "nomActuel": "Divonne-les-Bains",
+          "lat": "46.35666666666667",
+          "lon": "6.142777777777778",
+          "noms": [
+                "Divonne-les-Bains",
+                "Divonne"
+          ]
+    },
+    "01146": {
+          "nomActuel": "Dompierre-sur-Chalaronne",
+          "lat": "46.14361111111111",
+          "lon": "4.901666666666667",
+          "noms": [
+                "Dompierre-sur-Chalaronne"
+          ]
+    },
+    "01145": {
+          "nomActuel": "Dompierre-sur-Veyle",
+          "lat": "46.07361111111111",
+          "lon": "5.204166666666667",
+          "noms": [
+                "Dompierre-sur-Veyle",
+                "Dompierre"
+          ]
+    },
+    "01147": {
+          "nomActuel": "Domsure",
+          "lat": "46.41916666666666",
+          "lon": "5.295277777777778",
+          "noms": [
+                "Domsure"
+          ]
+    },
+    "01148": {
+          "nomActuel": "Dortan",
+          "lat": "46.31666666666667",
+          "lon": "5.666666666666667",
+          "noms": [
+                "Dortan"
+          ]
+    },
+    "01149": {
+          "nomActuel": "Douvres",
+          "lat": "45.98722222222222",
+          "lon": "5.375555555555555",
+          "noms": [
+                "Douvres"
+          ]
+    },
+    "01150": {
+          "nomActuel": "Drom",
+          "lat": "46.21888888888889",
+          "lon": "5.365277777777777",
+          "noms": [
+                "Drom"
+          ]
+    },
+    "01151": {
+          "nomActuel": "Druillat",
+          "lat": "46.06027777777778",
+          "lon": "5.315277777777777",
+          "noms": [
+                "Druillat"
+          ]
+    },
+    "01152": {
+          "nomActuel": "\u00c3\u2030challon",
+          "lat": "46.21083333333333",
+          "lon": "5.741944444444444",
+          "noms": [
+                "\u00c3\u2030challon"
+          ]
+    },
+    "01153": {
+          "nomActuel": "\u00c3\u2030chenevex",
+          "lat": "46.30888888888889",
+          "lon": "6.036111111111111",
+          "noms": [
+                "\u00c3\u2030chenevex"
+          ]
+    },
+    "01155": {
+          "nomActuel": "\u00c3\u2030vosges",
+          "lat": "45.961666666666666",
+          "lon": "5.498888888888889",
+          "noms": [
+                "\u00c3\u2030vosges"
+          ]
+    },
+    "01156": {
+          "nomActuel": "Faramans",
+          "lat": "45.903055555555554",
+          "lon": "5.127222222222222",
+          "noms": [
+                "Faramans"
+          ]
+    },
+    "01157": {
+          "nomActuel": "Fareins",
+          "lat": "46.02027777777778",
+          "lon": "4.762222222222222",
+          "noms": [
+                "Fareins"
+          ]
+    },
+    "01158": {
+          "nomActuel": "Farges",
+          "lat": "46.16777777777777",
+          "lon": "5.905277777777778",
+          "noms": [
+                "Farges"
+          ]
+    },
+    "01159": {
+          "nomActuel": "Feillens",
+          "lat": "46.336111111111116",
+          "lon": "4.889166666666666",
+          "noms": [
+                "Feillens"
+          ]
+    },
+    "01160": {
+          "nomActuel": "Ferney-Voltaire",
+          "lat": "46.255833333333335",
+          "lon": "6.108055555555556",
+          "noms": [
+                "Ferney-Voltaire",
+                "Ferney"
+          ]
+    },
+    "01162": {
+          "nomActuel": "Flaxieu",
+          "lat": "45.809999999999995",
+          "lon": "5.735277777777778",
+          "noms": [
+                "Flaxieu"
+          ]
+    },
+    "01163": {
+          "nomActuel": "Foissiat",
+          "lat": "46.37111111111111",
+          "lon": "5.1755555555555555",
+          "noms": [
+                "Foissiat"
+          ]
+    },
+    "01165": {
+          "nomActuel": "Francheleins",
+          "lat": "46.074444444444445",
+          "lon": "4.809166666666666",
+          "noms": [
+                "Francheleins",
+                "Amareins-Francheleins-Cesseins"
+          ]
+    },
+    "01166": {
+          "nomActuel": "Frans",
+          "lat": "45.992222222222225",
+          "lon": "4.7747222222222225",
+          "noms": [
+                "Frans"
+          ]
+    },
+    "01167": {
+          "nomActuel": "Garnerans",
+          "lat": "46.20583333333334",
+          "lon": "4.840277777777778",
+          "noms": [
+                "Garnerans"
+          ]
+    },
+    "01169": {
+          "nomActuel": "Genouilleux",
+          "lat": "46.11972222222222",
+          "lon": "4.7875",
+          "noms": [
+                "Genouilleux"
+          ]
+    },
+    "01171": {
+          "nomActuel": "G\u00c3\u00a9ovreisset",
+          "lat": "46.25694444444444",
+          "lon": "5.618055555555556",
+          "noms": [
+                "G\u00c3\u00a9ovreisset"
+          ]
+    },
+    "01173": {
+          "nomActuel": "Gex",
+          "lat": "46.333333333333336",
+          "lon": "6.057777777777778",
+          "noms": [
+                "Gex"
+          ]
+    },
+    "01174": {
+          "nomActuel": "Giron",
+          "lat": "46.225833333333334",
+          "lon": "5.771944444444444",
+          "noms": [
+                "Giron"
+          ]
+    },
+    "01175": {
+          "nomActuel": "Gorrevod",
+          "lat": "46.416666666666664",
+          "lon": "4.941944444444444",
+          "noms": [
+                "Gorrevod"
+          ]
+    },
+    "01177": {
+          "nomActuel": "Grand-Corent",
+          "lat": "46.2",
+          "lon": "5.433333333333334",
+          "noms": [
+                "Grand-Corent"
+          ]
+    },
+    "01179": {
+          "nomActuel": "Gri\u00c3\u00a8ges",
+          "lat": "46.25555555555555",
+          "lon": "4.851111111111111",
+          "noms": [
+                "Gri\u00c3\u00a8ges"
+          ]
+    },
+    "01180": {
+          "nomActuel": "Grilly",
+          "lat": "46.330555555555556",
+          "lon": "6.114999999999999",
+          "noms": [
+                "Grilly"
+          ]
+    },
+    "01181": {
+          "nomActuel": "Groissiat",
+          "lat": "46.22222222222222",
+          "lon": "5.606944444444444",
+          "noms": [
+                "Groissiat"
+          ]
+    },
+    "01338": {
+          "nomActuel": "Grosl\u00c3\u00a9e-Saint-Benoit",
+          "lat": "45.69499999999999",
+          "lon": "5.587222222222222",
+          "noms": [
+                "Grosl\u00c3\u00a9e-Saint-Benoit"
+          ]
+    },
+    "01183": {
+          "nomActuel": "Gu\u00c3\u00a9reins",
+          "lat": "46.10583333333334",
+          "lon": "4.7780555555555555",
+          "noms": [
+                "Gu\u00c3\u00a9reins"
+          ]
+    },
+    "01187": {
+          "nomActuel": "Haut Valromey",
+          "lat": "45.9975",
+          "lon": "5.695",
+          "noms": [
+                "Haut Valromey"
+          ]
+    },
+    "01184": {
+          "nomActuel": "Hautecourt-Roman\u00c3\u00a8che",
+          "lat": "46.15972222222222",
+          "lon": "5.4175",
+          "noms": [
+                "Hautecourt-Roman\u00c3\u00a8che"
+          ]
+    },
+    "01188": {
+          "nomActuel": "Illiat",
+          "lat": "46.191111111111105",
+          "lon": "4.889166666666666",
+          "noms": [
+                "Illiat"
+          ]
+    },
+    "01189": {
+          "nomActuel": "Injoux-G\u00c3\u00a9nissiat",
+          "lat": "46.05916666666666",
+          "lon": "5.768888888888889",
+          "noms": [
+                "Injoux-G\u00c3\u00a9nissiat"
+          ]
+    },
+    "01190": {
+          "nomActuel": "Innimond",
+          "lat": "45.782777777777774",
+          "lon": "5.572222222222222",
+          "noms": [
+                "Innimond"
+          ]
+    },
+    "01191": {
+          "nomActuel": "Izenave",
+          "lat": "46.038888888888884",
+          "lon": "5.525833333333333",
+          "noms": [
+                "Izenave"
+          ]
+    },
+    "01192": {
+          "nomActuel": "Izernore",
+          "lat": "46.21666666666667",
+          "lon": "5.55",
+          "noms": [
+                "Izernore"
+          ]
+    },
+    "01193": {
+          "nomActuel": "Izieu",
+          "lat": "45.655277777777776",
+          "lon": "5.644166666666666",
+          "noms": [
+                "Izieu"
+          ]
+    },
+    "01194": {
+          "nomActuel": "Jassans-Riottier",
+          "lat": "45.986111111111114",
+          "lon": "4.7575",
+          "noms": [
+                "Jassans-Riottier",
+                "Jassans"
+          ]
+    },
+    "01195": {
+          "nomActuel": "Jasseron",
+          "lat": "46.21333333333334",
+          "lon": "5.326388888888888",
+          "noms": [
+                "Jasseron"
+          ]
+    },
+    "01196": {
+          "nomActuel": "Jayat",
+          "lat": "46.37138888888889",
+          "lon": "5.121666666666666",
+          "noms": [
+                "Jayat"
+          ]
+    },
+    "01197": {
+          "nomActuel": "Journans",
+          "lat": "46.14555555555555",
+          "lon": "5.333333333333333",
+          "noms": [
+                "Journans"
+          ]
+    },
+    "01198": {
+          "nomActuel": "Joyeux",
+          "lat": "45.96194444444445",
+          "lon": "5.110833333333333",
+          "noms": [
+                "Joyeux"
+          ]
+    },
+    "01199": {
+          "nomActuel": "Jujurieux",
+          "lat": "46.04083333333333",
+          "lon": "5.4094444444444445",
+          "noms": [
+                "Jujurieux"
+          ]
+    },
+    "01001": {
+          "nomActuel": "L'Abergement-Cl\u00c3\u00a9menciat",
+          "lat": "46.151944444444446",
+          "lon": "4.921666666666667",
+          "noms": [
+                "L'Abergement-Cl\u00c3\u00a9menciat"
+          ]
+    },
+    "01002": {
+          "nomActuel": "L'Abergement-de-Varey",
+          "lat": "46.007777777777775",
+          "lon": "5.425277777777778",
+          "noms": [
+                "L'Abergement-de-Varey"
+          ]
+    },
+    "01049": {
+          "nomActuel": "La Boisse",
+          "lat": "45.84277777777778",
+          "lon": "5.036388888888888",
+          "noms": [
+                "La Boisse"
+          ]
+    },
+    "01066": {
+          "nomActuel": "La Burbanche",
+          "lat": "45.84666666666667",
+          "lon": "5.562222222222222",
+          "noms": [
+                "La Burbanche"
+          ]
+    },
+    "01085": {
+          "nomActuel": "La Chapelle-du-Ch\u00c3\u00a2telard",
+          "lat": "46.069722222222225",
+          "lon": "5.026111111111111",
+          "noms": [
+                "La Chapelle-du-Ch\u00c3\u00a2telard"
+          ]
+    },
+    "01425": {
+          "nomActuel": "La Trancli\u00c3\u00a8re",
+          "lat": "46.11194444444445",
+          "lon": "5.259722222222222",
+          "noms": [
+                "La Trancli\u00c3\u00a8re"
+          ]
+    },
+    "01200": {
+          "nomActuel": "Labalme",
+          "lat": "46.09388888888889",
+          "lon": "5.483611111111111",
+          "noms": [
+                "Labalme"
+          ]
+    },
+    "01202": {
+          "nomActuel": "Lagnieu",
+          "lat": "45.903055555555554",
+          "lon": "5.347777777777777",
+          "noms": [
+                "Lagnieu"
+          ]
+    },
+    "01203": {
+          "nomActuel": "Laiz",
+          "lat": "46.24888888888889",
+          "lon": "4.889166666666666",
+          "noms": [
+                "Laiz"
+          ]
+    },
+    "01206": {
+          "nomActuel": "Lantenay",
+          "lat": "46.058611111111105",
+          "lon": "5.542222222222222",
+          "noms": [
+                "Lantenay"
+          ]
+    },
+    "01207": {
+          "nomActuel": "Lapeyrouse",
+          "lat": "45.98388888888889",
+          "lon": "4.9775",
+          "noms": [
+                "Lapeyrouse"
+          ]
+    },
+    "01208": {
+          "nomActuel": "Lavours",
+          "lat": "45.81027777777778",
+          "lon": "5.77",
+          "noms": [
+                "Lavours"
+          ]
+    },
+    "01260": {
+          "nomActuel": "Le Montellier",
+          "lat": "45.930277777777775",
+          "lon": "5.073888888888889",
+          "noms": [
+                "Le Montellier"
+          ]
+    },
+    "01299": {
+          "nomActuel": "Le Plantay",
+          "lat": "46.02444444444444",
+          "lon": "5.087777777777777",
+          "noms": [
+                "Le Plantay"
+          ]
+    },
+    "01204": {
+          "nomActuel": "Le Poizat-Lalleyriat",
+          "lat": "46.144999999999996",
+          "lon": "5.696111111111112",
+          "noms": [
+                "Le Poizat-Lalleyriat"
+          ]
+    },
+    "01209": {
+          "nomActuel": "L\u00c3\u00a9az",
+          "lat": "46.09805555555556",
+          "lon": "5.886666666666666",
+          "noms": [
+                "L\u00c3\u00a9az"
+          ]
+    },
+    "01210": {
+          "nomActuel": "L\u00c3\u00a9lex",
+          "lat": "46.30555555555555",
+          "lon": "5.9413888888888895",
+          "noms": [
+                "L\u00c3\u00a9lex"
+          ]
+    },
+    "01211": {
+          "nomActuel": "Lent",
+          "lat": "46.12027777777778",
+          "lon": "5.196388888888889",
+          "noms": [
+                "Lent"
+          ]
+    },
+    "01274": {
+          "nomActuel": "Les Neyrolles",
+          "lat": "46.1425",
+          "lon": "5.634166666666666",
+          "noms": [
+                "Les Neyrolles"
+          ]
+    },
+    "01212": {
+          "nomActuel": "Lescheroux",
+          "lat": "46.4075",
+          "lon": "5.147222222222223",
+          "noms": [
+                "Lescheroux"
+          ]
+    },
+    "01213": {
+          "nomActuel": "Leyment",
+          "lat": "45.92194444444444",
+          "lon": "5.297777777777777",
+          "noms": [
+                "Leyment"
+          ]
+    },
+    "01214": {
+          "nomActuel": "Leyssard",
+          "lat": "46.156666666666666",
+          "lon": "5.476666666666667",
+          "noms": [
+                "Leyssard"
+          ]
+    },
+    "01216": {
+          "nomActuel": "Lhuis",
+          "lat": "45.74805555555556",
+          "lon": "5.5344444444444445",
+          "noms": [
+                "Lhuis"
+          ]
+    },
+    "01219": {
+          "nomActuel": "Lompnas",
+          "lat": "45.80361111111111",
+          "lon": "5.520277777777777",
+          "noms": [
+                "Lompnas"
+          ]
+    },
+    "01224": {
+          "nomActuel": "Loyettes",
+          "lat": "45.77583333333333",
+          "lon": "5.2075000000000005",
+          "noms": [
+                "Loyettes"
+          ]
+    },
+    "01225": {
+          "nomActuel": "Lurcy",
+          "lat": "46.06444444444444",
+          "lon": "4.783333333333333",
+          "noms": [
+                "Lurcy"
+          ]
+    },
+    "01227": {
+          "nomActuel": "Magnieu",
+          "lat": "45.776944444444446",
+          "lon": "5.719444444444445",
+          "noms": [
+                "Magnieu"
+          ]
+    },
+    "01228": {
+          "nomActuel": "Maillat",
+          "lat": "46.132777777777775",
+          "lon": "5.549722222222222",
+          "noms": [
+                "Maillat"
+          ]
+    },
+    "01229": {
+          "nomActuel": "Malafretaz",
+          "lat": "46.32472222222223",
+          "lon": "5.147500000000001",
+          "noms": [
+                "Malafretaz"
+          ]
+    },
+    "01230": {
+          "nomActuel": "Mantenay-Montlin",
+          "lat": "46.42527777777777",
+          "lon": "5.098888888888888",
+          "noms": [
+                "Mantenay-Montlin"
+          ]
+    },
+    "01231": {
+          "nomActuel": "Manziat",
+          "lat": "46.36083333333333",
+          "lon": "4.907222222222223",
+          "noms": [
+                "Manziat"
+          ]
+    },
+    "01232": {
+          "nomActuel": "Marboz",
+          "lat": "46.3425",
+          "lon": "5.258333333333334",
+          "noms": [
+                "Marboz"
+          ]
+    },
+    "01233": {
+          "nomActuel": "Marchamp",
+          "lat": "45.7875",
+          "lon": "5.542222222222222",
+          "noms": [
+                "Marchamp"
+          ]
+    },
+    "01234": {
+          "nomActuel": "Marignieu",
+          "lat": "45.79694444444444",
+          "lon": "5.72",
+          "noms": [
+                "Marignieu"
+          ]
+    },
+    "01235": {
+          "nomActuel": "Marlieux",
+          "lat": "46.06527777777777",
+          "lon": "5.073333333333333",
+          "noms": [
+                "Marlieux"
+          ]
+    },
+    "01236": {
+          "nomActuel": "Marsonnas",
+          "lat": "46.34166666666667",
+          "lon": "5.071944444444444",
+          "noms": [
+                "Marsonnas"
+          ]
+    },
+    "01237": {
+          "nomActuel": "Martignat",
+          "lat": "46.21",
+          "lon": "5.609444444444444",
+          "noms": [
+                "Martignat"
+          ]
+    },
+    "01238": {
+          "nomActuel": "Massieux",
+          "lat": "45.91",
+          "lon": "4.831944444444444",
+          "noms": [
+                "Massieux"
+          ]
+    },
+    "01239": {
+          "nomActuel": "Massignieu-de-Rives",
+          "lat": "45.755",
+          "lon": "5.766944444444444",
+          "noms": [
+                "Massignieu-de-Rives"
+          ]
+    },
+    "01240": {
+          "nomActuel": "Matafelon-Granges",
+          "lat": "46.261944444444445",
+          "lon": "5.554444444444444",
+          "noms": [
+                "Matafelon-Granges"
+          ]
+    },
+    "01241": {
+          "nomActuel": "Meillonnas",
+          "lat": "46.24583333333334",
+          "lon": "5.3525",
+          "noms": [
+                "Meillonnas"
+          ]
+    },
+    "01242": {
+          "nomActuel": "M\u00c3\u00a9rignat",
+          "lat": "46.07027777777778",
+          "lon": "5.4375",
+          "noms": [
+                "M\u00c3\u00a9rignat"
+          ]
+    },
+    "01243": {
+          "nomActuel": "Messimy-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.05",
+          "lon": "4.764166666666667",
+          "noms": [
+                "Messimy-sur-Sa\u00c3\u00b4ne",
+                "Messimy"
+          ]
+    },
+    "01244": {
+          "nomActuel": "Meximieux",
+          "lat": "45.905277777777776",
+          "lon": "5.195277777777778",
+          "noms": [
+                "Meximieux"
+          ]
+    },
+    "01246": {
+          "nomActuel": "M\u00c3\u00a9z\u00c3\u00a9riat",
+          "lat": "46.23527777777778",
+          "lon": "5.047777777777777",
+          "noms": [
+                "M\u00c3\u00a9z\u00c3\u00a9riat"
+          ]
+    },
+    "01247": {
+          "nomActuel": "Mijoux",
+          "lat": "46.36694444444444",
+          "lon": "5.9944444444444445",
+          "noms": [
+                "Mijoux"
+          ]
+    },
+    "01248": {
+          "nomActuel": "Mionnay",
+          "lat": "45.89555555555555",
+          "lon": "4.932222222222222",
+          "noms": [
+                "Mionnay"
+          ]
+    },
+    "01249": {
+          "nomActuel": "Miribel",
+          "lat": "45.825833333333335",
+          "lon": "4.954444444444444",
+          "noms": [
+                "Miribel"
+          ]
+    },
+    "01250": {
+          "nomActuel": "Mis\u00c3\u00a9rieux",
+          "lat": "45.97416666666667",
+          "lon": "4.811388888888889",
+          "noms": [
+                "Mis\u00c3\u00a9rieux"
+          ]
+    },
+    "01252": {
+          "nomActuel": "Mogneneins",
+          "lat": "46.141666666666666",
+          "lon": "4.811111111111111",
+          "noms": [
+                "Mogneneins"
+          ]
+    },
+    "01254": {
+          "nomActuel": "Montagnat",
+          "lat": "46.170833333333334",
+          "lon": "5.2844444444444445",
+          "noms": [
+                "Montagnat"
+          ]
+    },
+    "01255": {
+          "nomActuel": "Montagnieu",
+          "lat": "45.79333333333333",
+          "lon": "5.470833333333333",
+          "noms": [
+                "Montagnieu"
+          ]
+    },
+    "01257": {
+          "nomActuel": "Montanges",
+          "lat": "46.165",
+          "lon": "5.802222222222222",
+          "noms": [
+                "Montanges"
+          ]
+    },
+    "01258": {
+          "nomActuel": "Montceaux",
+          "lat": "46.09805555555556",
+          "lon": "4.796388888888889",
+          "noms": [
+                "Montceaux"
+          ]
+    },
+    "01259": {
+          "nomActuel": "Montcet",
+          "lat": "46.21333333333334",
+          "lon": "5.1130555555555555",
+          "noms": [
+                "Montcet"
+          ]
+    },
+    "01261": {
+          "nomActuel": "Monthieux",
+          "lat": "45.95777777777778",
+          "lon": "4.941111111111112",
+          "noms": [
+                "Monthieux"
+          ]
+    },
+    "01262": {
+          "nomActuel": "Montluel",
+          "lat": "45.85194444444445",
+          "lon": "5.057777777777778",
+          "noms": [
+                "Montluel"
+          ]
+    },
+    "01263": {
+          "nomActuel": "Montmerle-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.08277777777778",
+          "lon": "4.7575",
+          "noms": [
+                "Montmerle-sur-Sa\u00c3\u00b4ne",
+                "Montmerle"
+          ]
+    },
+    "01264": {
+          "nomActuel": "Montracol",
+          "lat": "46.198611111111106",
+          "lon": "5.121944444444444",
+          "noms": [
+                "Montracol"
+          ]
+    },
+    "01265": {
+          "nomActuel": "Montr\u00c3\u00a9al-la-Cluse",
+          "lat": "46.18333333333333",
+          "lon": "5.566666666666666",
+          "noms": [
+                "Montr\u00c3\u00a9al-la-Cluse",
+                "Montr\u00c3\u00a9al"
+          ]
+    },
+    "01266": {
+          "nomActuel": "Montrevel-en-Bresse",
+          "lat": "46.337500000000006",
+          "lon": "5.128888888888889",
+          "noms": [
+                "Montrevel-en-Bresse",
+                "Montrevel"
+          ]
+    },
+    "01268": {
+          "nomActuel": "Murs-et-G\u00c3\u00a9lignieux",
+          "lat": "45.64388888888889",
+          "lon": "5.662777777777778",
+          "noms": [
+                "Murs-et-G\u00c3\u00a9lignieux"
+          ]
+    },
+    "01269": {
+          "nomActuel": "Nantua",
+          "lat": "46.151944444444446",
+          "lon": "5.607777777777778",
+          "noms": [
+                "Nantua"
+          ]
+    },
+    "01272": {
+          "nomActuel": "Neuville-les-Dames",
+          "lat": "46.16222222222222",
+          "lon": "5.002777777777778",
+          "noms": [
+                "Neuville-les-Dames"
+          ]
+    },
+    "01273": {
+          "nomActuel": "Neuville-sur-Ain",
+          "lat": "46.08444444444444",
+          "lon": "5.370277777777777",
+          "noms": [
+                "Neuville-sur-Ain"
+          ]
+    },
+    "01275": {
+          "nomActuel": "Neyron",
+          "lat": "45.81361111111111",
+          "lon": "4.930555555555556",
+          "noms": [
+                "Neyron"
+          ]
+    },
+    "01276": {
+          "nomActuel": "Ni\u00c3\u00a9vroz",
+          "lat": "45.82694444444445",
+          "lon": "5.064722222222222",
+          "noms": [
+                "Ni\u00c3\u00a9vroz"
+          ]
+    },
+    "01095": {
+          "nomActuel": "Nivigne et Suran",
+          "lat": "46.26416666666667",
+          "lon": "5.4275",
+          "noms": [
+                "Nivigne et Suran"
+          ]
+    },
+    "01277": {
+          "nomActuel": "Nivollet-Montgriffon",
+          "lat": "45.99111111111111",
+          "lon": "5.445833333333334",
+          "noms": [
+                "Nivollet-Montgriffon",
+                "Montgriffon"
+          ]
+    },
+    "01267": {
+          "nomActuel": "Nurieux-Volognat",
+          "lat": "46.19499999999999",
+          "lon": "5.517222222222222",
+          "noms": [
+                "Nurieux-Volognat"
+          ]
+    },
+    "01279": {
+          "nomActuel": "Oncieu",
+          "lat": "45.95777777777778",
+          "lon": "5.473333333333334",
+          "noms": [
+                "Oncieu"
+          ]
+    },
+    "01280": {
+          "nomActuel": "Ordonnaz",
+          "lat": "45.83694444444445",
+          "lon": "5.538888888888889",
+          "noms": [
+                "Ordonnaz"
+          ]
+    },
+    "01281": {
+          "nomActuel": "Ornex",
+          "lat": "46.26972222222222",
+          "lon": "6.098333333333333",
+          "noms": [
+                "Ornex"
+          ]
+    },
+    "01282": {
+          "nomActuel": "Outriaz",
+          "lat": "46.06805555555556",
+          "lon": "5.5475",
+          "noms": [
+                "Outriaz"
+          ]
+    },
+    "01283": {
+          "nomActuel": "Oyonnax",
+          "lat": "46.25611111111111",
+          "lon": "5.655555555555556",
+          "noms": [
+                "Oyonnax"
+          ]
+    },
+    "01284": {
+          "nomActuel": "Ozan",
+          "lat": "46.3925",
+          "lon": "4.916111111111111",
+          "noms": [
+                "Ozan"
+          ]
+    },
+    "01285": {
+          "nomActuel": "Parcieux",
+          "lat": "45.91638888888889",
+          "lon": "4.825555555555555",
+          "noms": [
+                "Parcieux"
+          ]
+    },
+    "01286": {
+          "nomActuel": "Parves et Nattages",
+          "lat": "45.74388888888889",
+          "lon": "5.742222222222222",
+          "noms": [
+                "Parves et Nattages"
+          ]
+    },
+    "01288": {
+          "nomActuel": "P\u00c3\u00a9ron",
+          "lat": "46.19",
+          "lon": "5.926388888888889",
+          "noms": [
+                "P\u00c3\u00a9ron"
+          ]
+    },
+    "01289": {
+          "nomActuel": "P\u00c3\u00a9ronnas",
+          "lat": "46.17944444444444",
+          "lon": "5.203333333333333",
+          "noms": [
+                "P\u00c3\u00a9ronnas"
+          ]
+    },
+    "01290": {
+          "nomActuel": "P\u00c3\u00a9rouges",
+          "lat": "45.903055555555554",
+          "lon": "5.180000000000001",
+          "noms": [
+                "P\u00c3\u00a9rouges"
+          ]
+    },
+    "01291": {
+          "nomActuel": "Perrex",
+          "lat": "46.24444444444445",
+          "lon": "4.978611111111111",
+          "noms": [
+                "Perrex"
+          ]
+    },
+    "01293": {
+          "nomActuel": "Peyriat",
+          "lat": "46.155",
+          "lon": "5.5125",
+          "noms": [
+                "Peyriat"
+          ]
+    },
+    "01294": {
+          "nomActuel": "Peyrieu",
+          "lat": "45.67638888888889",
+          "lon": "5.677222222222222",
+          "noms": [
+                "Peyrieu"
+          ]
+    },
+    "01295": {
+          "nomActuel": "Peyzieux-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.12861111111111",
+          "lon": "4.816944444444444",
+          "noms": [
+                "Peyzieux-sur-Sa\u00c3\u00b4ne",
+                "Peyzieux"
+          ]
+    },
+    "01296": {
+          "nomActuel": "Pirajoux",
+          "lat": "46.37138888888889",
+          "lon": "5.299444444444444",
+          "noms": [
+                "Pirajoux"
+          ]
+    },
+    "01297": {
+          "nomActuel": "Pizay",
+          "lat": "45.88805555555555",
+          "lon": "5.090277777777778",
+          "noms": [
+                "Pizay"
+          ]
+    },
+    "01298": {
+          "nomActuel": "Plagne",
+          "lat": "46.19361111111111",
+          "lon": "5.726666666666667",
+          "noms": [
+                "Plagne"
+          ]
+    },
+    "01185": {
+          "nomActuel": "Plateau d'Hauteville",
+          "lat": "45.97916666666667",
+          "lon": "5.605277777777777",
+          "noms": [
+                "Plateau d'Hauteville"
+          ]
+    },
+    "01301": {
+          "nomActuel": "Polliat",
+          "lat": "46.25",
+          "lon": "5.126666666666666",
+          "noms": [
+                "Polliat"
+          ]
+    },
+    "01302": {
+          "nomActuel": "Pollieu",
+          "lat": "45.80027777777777",
+          "lon": "5.743888888888889",
+          "noms": [
+                "Pollieu"
+          ]
+    },
+    "01303": {
+          "nomActuel": "Poncin",
+          "lat": "46.087500000000006",
+          "lon": "5.406944444444445",
+          "noms": [
+                "Poncin"
+          ]
+    },
+    "01304": {
+          "nomActuel": "Pont-d'Ain",
+          "lat": "46.05083333333333",
+          "lon": "5.335",
+          "noms": [
+                "Pont-d'Ain"
+          ]
+    },
+    "01305": {
+          "nomActuel": "Pont-de-Vaux",
+          "lat": "46.43333333333333",
+          "lon": "4.936944444444444",
+          "noms": [
+                "Pont-de-Vaux"
+          ]
+    },
+    "01306": {
+          "nomActuel": "Pont-de-Veyle",
+          "lat": "46.26361111111111",
+          "lon": "4.888611111111111",
+          "noms": [
+                "Pont-de-Veyle"
+          ]
+    },
+    "01307": {
+          "nomActuel": "Port",
+          "lat": "46.165277777777774",
+          "lon": "5.571111111111111",
+          "noms": [
+                "Port"
+          ]
+    },
+    "01308": {
+          "nomActuel": "Pougny",
+          "lat": "46.13805555555555",
+          "lon": "5.95",
+          "noms": [
+                "Pougny"
+          ]
+    },
+    "01309": {
+          "nomActuel": "Pouillat",
+          "lat": "46.32805555555556",
+          "lon": "5.429166666666667",
+          "noms": [
+                "Pouillat"
+          ]
+    },
+    "01310": {
+          "nomActuel": "Pr\u00c3\u00a9meyzel",
+          "lat": "45.68388888888889",
+          "lon": "5.648055555555555",
+          "noms": [
+                "Pr\u00c3\u00a9meyzel"
+          ]
+    },
+    "01311": {
+          "nomActuel": "Pr\u00c3\u00a9millieu",
+          "lat": "45.87444444444444",
+          "lon": "5.571666666666666",
+          "noms": [
+                "Pr\u00c3\u00a9millieu"
+          ]
+    },
+    "01313": {
+          "nomActuel": "Pr\u00c3\u00a9vessin-Mo\u00c3\u00abns",
+          "lat": "46.25388888888889",
+          "lon": "6.081666666666666",
+          "noms": [
+                "Pr\u00c3\u00a9vessin-Mo\u00c3\u00abns"
+          ]
+    },
+    "01314": {
+          "nomActuel": "Priay",
+          "lat": "46.003055555555555",
+          "lon": "5.289444444444444",
+          "noms": [
+                "Priay"
+          ]
+    },
+    "01317": {
+          "nomActuel": "Ramasse",
+          "lat": "46.19499999999999",
+          "lon": "5.355277777777777",
+          "noms": [
+                "Ramasse"
+          ]
+    },
+    "01318": {
+          "nomActuel": "Ranc\u00c3\u00a9",
+          "lat": "45.96638888888889",
+          "lon": "4.869444444444445",
+          "noms": [
+                "Ranc\u00c3\u00a9"
+          ]
+    },
+    "01319": {
+          "nomActuel": "Relevant",
+          "lat": "46.09111111111111",
+          "lon": "4.95",
+          "noms": [
+                "Relevant"
+          ]
+    },
+    "01320": {
+          "nomActuel": "Replonges",
+          "lat": "46.301111111111105",
+          "lon": "4.869722222222222",
+          "noms": [
+                "Replonges"
+          ]
+    },
+    "01321": {
+          "nomActuel": "Revonnas",
+          "lat": "46.16222222222222",
+          "lon": "5.330277777777778",
+          "noms": [
+                "Revonnas"
+          ]
+    },
+    "01322": {
+          "nomActuel": "Reyrieux",
+          "lat": "45.93333333333333",
+          "lon": "4.816666666666666",
+          "noms": [
+                "Reyrieux"
+          ]
+    },
+    "01323": {
+          "nomActuel": "Reyssouze",
+          "lat": "46.43277777777777",
+          "lon": "4.92",
+          "noms": [
+                "Reyssouze"
+          ]
+    },
+    "01325": {
+          "nomActuel": "Rignieux-le-Franc",
+          "lat": "45.94027777777777",
+          "lon": "5.190555555555556",
+          "noms": [
+                "Rignieux-le-Franc"
+          ]
+    },
+    "01328": {
+          "nomActuel": "Romans",
+          "lat": "46.12166666666667",
+          "lon": "5.021111111111111",
+          "noms": [
+                "Romans"
+          ]
+    },
+    "01329": {
+          "nomActuel": "Rossillon",
+          "lat": "45.831944444444446",
+          "lon": "5.595833333333333",
+          "noms": [
+                "Rossillon"
+          ]
+    },
+    "01330": {
+          "nomActuel": "Ruffieu",
+          "lat": "45.99305555555556",
+          "lon": "5.663611111111112",
+          "noms": [
+                "Ruffieu"
+          ]
+    },
+    "01331": {
+          "nomActuel": "Saint-Alban",
+          "lat": "46.096111111111114",
+          "lon": "5.453888888888889",
+          "noms": [
+                "Saint-Alban"
+          ]
+    },
+    "01334": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-d'Huiriat",
+          "lat": "46.21416666666667",
+          "lon": "4.912777777777778",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-d'Huiriat"
+          ]
+    },
+    "01332": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-de-B\u00c3\u00a2g\u00c3\u00a9",
+          "lat": "46.30305555555555",
+          "lon": "4.924444444444445",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-de-B\u00c3\u00a2g\u00c3\u00a9"
+          ]
+    },
+    "01333": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-de-Corcy",
+          "lat": "45.92722222222222",
+          "lon": "4.952777777777778",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-de-Corcy"
+          ]
+    },
+    "01335": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-le-Bouchoux",
+          "lat": "46.11805555555556",
+          "lon": "5.078333333333333",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-le-Bouchoux"
+          ]
+    },
+    "01336": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-sur-Vieux-Jonc",
+          "lat": "46.1575",
+          "lon": "5.147222222222223",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-sur-Vieux-Jonc",
+                "Saint-Andr\u00c3\u00a9-le-Panoux"
+          ]
+    },
+    "01337": {
+          "nomActuel": "Saint-B\u00c3\u00a9nigne",
+          "lat": "46.439722222222215",
+          "lon": "4.972222222222222",
+          "noms": [
+                "Saint-B\u00c3\u00a9nigne"
+          ]
+    },
+    "01339": {
+          "nomActuel": "Saint-Bernard",
+          "lat": "45.94555555555555",
+          "lon": "4.731944444444444",
+          "noms": [
+                "Saint-Bernard"
+          ]
+    },
+    "01343": {
+          "nomActuel": "Saint-Cyr-sur-Menthon",
+          "lat": "46.275555555555556",
+          "lon": "4.973055555555556",
+          "noms": [
+                "Saint-Cyr-sur-Menthon"
+          ]
+    },
+    "01345": {
+          "nomActuel": "Saint-Denis-en-Bugey",
+          "lat": "45.94944444444444",
+          "lon": "5.328888888888889",
+          "noms": [
+                "Saint-Denis-en-Bugey",
+                "Saint-Denis-le-Chosson"
+          ]
+    },
+    "01344": {
+          "nomActuel": "Saint-Denis-l\u00c3\u00a8s-Bourg",
+          "lat": "46.2025",
+          "lon": "5.19",
+          "noms": [
+                "Saint-Denis-l\u00c3\u00a8s-Bourg",
+                "Saint-Denis-le-Ceyz\u00c3\u00a9riat"
+          ]
+    },
+    "01346": {
+          "nomActuel": "Saint-Didier-d'Aussiat",
+          "lat": "46.30694444444444",
+          "lon": "5.0616666666666665",
+          "noms": [
+                "Saint-Didier-d'Aussiat"
+          ]
+    },
+    "01347": {
+          "nomActuel": "Saint-Didier-de-Formans",
+          "lat": "45.95722222222223",
+          "lon": "4.781111111111111",
+          "noms": [
+                "Saint-Didier-de-Formans"
+          ]
+    },
+    "01348": {
+          "nomActuel": "Saint-Didier-sur-Chalaronne",
+          "lat": "46.178888888888885",
+          "lon": "4.817777777777778",
+          "noms": [
+                "Saint-Didier-sur-Chalaronne"
+          ]
+    },
+    "01349": {
+          "nomActuel": "Saint-\u00c3\u2030loi",
+          "lat": "45.93388888888889",
+          "lon": "5.152222222222223",
+          "noms": [
+                "Saint-\u00c3\u2030loi"
+          ]
+    },
+    "01350": {
+          "nomActuel": "Saint-\u00c3\u2030tienne-du-Bois",
+          "lat": "46.28861111111111",
+          "lon": "5.2941666666666665",
+          "noms": [
+                "Saint-\u00c3\u2030tienne-du-Bois"
+          ]
+    },
+    "01351": {
+          "nomActuel": "Saint-\u00c3\u2030tienne-sur-Chalaronne",
+          "lat": "46.15",
+          "lon": "4.866666666666667",
+          "noms": [
+                "Saint-\u00c3\u2030tienne-sur-Chalaronne"
+          ]
+    },
+    "01352": {
+          "nomActuel": "Saint-\u00c3\u2030tienne-sur-Reyssouze",
+          "lat": "46.413888888888884",
+          "lon": "5.001666666666667",
+          "noms": [
+                "Saint-\u00c3\u2030tienne-sur-Reyssouze"
+          ]
+    },
+    "01354": {
+          "nomActuel": "Saint-Genis-Pouilly",
+          "lat": "46.243611111111115",
+          "lon": "6.025",
+          "noms": [
+                "Saint-Genis-Pouilly",
+                "Pouilly-Saint-Genis"
+          ]
+    },
+    "01355": {
+          "nomActuel": "Saint-Genis-sur-Menthon",
+          "lat": "46.283055555555556",
+          "lon": "5.009722222222222",
+          "noms": [
+                "Saint-Genis-sur-Menthon"
+          ]
+    },
+    "01356": {
+          "nomActuel": "Saint-Georges-sur-Renon",
+          "lat": "46.10472222222222",
+          "lon": "5.031111111111111",
+          "noms": [
+                "Saint-Georges-sur-Renon"
+          ]
+    },
+    "01357": {
+          "nomActuel": "Saint-Germain-de-Joux",
+          "lat": "46.17972222222222",
+          "lon": "5.735277777777778",
+          "noms": [
+                "Saint-Germain-de-Joux"
+          ]
+    },
+    "01358": {
+          "nomActuel": "Saint-Germain-les-Paroisses",
+          "lat": "45.77333333333333",
+          "lon": "5.6191666666666675",
+          "noms": [
+                "Saint-Germain-les-Paroisses"
+          ]
+    },
+    "01359": {
+          "nomActuel": "Saint-Germain-sur-Renon",
+          "lat": "46.08166666666667",
+          "lon": "5.058055555555556",
+          "noms": [
+                "Saint-Germain-sur-Renon"
+          ]
+    },
+    "01360": {
+          "nomActuel": "Saint-Jean-de-Gonville",
+          "lat": "46.21277777777778",
+          "lon": "5.948611111111111",
+          "noms": [
+                "Saint-Jean-de-Gonville"
+          ]
+    },
+    "01361": {
+          "nomActuel": "Saint-Jean-de-Niost",
+          "lat": "45.840833333333336",
+          "lon": "5.218888888888889",
+          "noms": [
+                "Saint-Jean-de-Niost"
+          ]
+    },
+    "01362": {
+          "nomActuel": "Saint-Jean-de-Thurigneux",
+          "lat": "45.95305555555556",
+          "lon": "4.883055555555556",
+          "noms": [
+                "Saint-Jean-de-Thurigneux"
+          ]
+    },
+    "01363": {
+          "nomActuel": "Saint-Jean-le-Vieux",
+          "lat": "46.02972222222222",
+          "lon": "5.386388888888889",
+          "noms": [
+                "Saint-Jean-le-Vieux"
+          ]
+    },
+    "01364": {
+          "nomActuel": "Saint-Jean-sur-Reyssouze",
+          "lat": "46.39694444444444",
+          "lon": "5.0633333333333335",
+          "noms": [
+                "Saint-Jean-sur-Reyssouze"
+          ]
+    },
+    "01365": {
+          "nomActuel": "Saint-Jean-sur-Veyle",
+          "lat": "46.25888888888889",
+          "lon": "4.916111111111111",
+          "noms": [
+                "Saint-Jean-sur-Veyle"
+          ]
+    },
+    "01367": {
+          "nomActuel": "Saint-Julien-sur-Reyssouze",
+          "lat": "46.402499999999996",
+          "lon": "5.107777777777778",
+          "noms": [
+                "Saint-Julien-sur-Reyssouze"
+          ]
+    },
+    "01368": {
+          "nomActuel": "Saint-Julien-sur-Veyle",
+          "lat": "46.20277777777778",
+          "lon": "4.954444444444444",
+          "noms": [
+                "Saint-Julien-sur-Veyle"
+          ]
+    },
+    "01369": {
+          "nomActuel": "Saint-Just",
+          "lat": "46.19027777777777",
+          "lon": "5.28",
+          "noms": [
+                "Saint-Just"
+          ]
+    },
+    "01370": {
+          "nomActuel": "Saint-Laurent-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.305",
+          "lon": "4.839166666666666",
+          "noms": [
+                "Saint-Laurent-sur-Sa\u00c3\u00b4ne",
+                "Saint-Laurent"
+          ]
+    },
+    "01371": {
+          "nomActuel": "Saint-Marcel",
+          "lat": "45.94944444444444",
+          "lon": "4.9880555555555555",
+          "noms": [
+                "Saint-Marcel"
+          ]
+    },
+    "01372": {
+          "nomActuel": "Saint-Martin-de-Bavel",
+          "lat": "45.849444444444444",
+          "lon": "5.6775",
+          "noms": [
+                "Saint-Martin-de-Bavel"
+          ]
+    },
+    "01373": {
+          "nomActuel": "Saint-Martin-du-Fr\u00c3\u00aane",
+          "lat": "46.13944444444444",
+          "lon": "5.553055555555555",
+          "noms": [
+                "Saint-Martin-du-Fr\u00c3\u00aane"
+          ]
+    },
+    "01374": {
+          "nomActuel": "Saint-Martin-du-Mont",
+          "lat": "46.102222222222224",
+          "lon": "5.329166666666667",
+          "noms": [
+                "Saint-Martin-du-Mont"
+          ]
+    },
+    "01375": {
+          "nomActuel": "Saint-Martin-le-Ch\u00c3\u00a2tel",
+          "lat": "46.282777777777774",
+          "lon": "5.116388888888888",
+          "noms": [
+                "Saint-Martin-le-Ch\u00c3\u00a2tel"
+          ]
+    },
+    "01376": {
+          "nomActuel": "Saint-Maurice-de-Beynost",
+          "lat": "45.83444444444444",
+          "lon": "4.9775",
+          "noms": [
+                "Saint-Maurice-de-Beynost"
+          ]
+    },
+    "01378": {
+          "nomActuel": "Saint-Maurice-de-Gourdans",
+          "lat": "45.82194444444445",
+          "lon": "5.195555555555556",
+          "noms": [
+                "Saint-Maurice-de-Gourdans"
+          ]
+    },
+    "01379": {
+          "nomActuel": "Saint-Maurice-de-R\u00c3\u00a9mens",
+          "lat": "45.95777777777778",
+          "lon": "5.277222222222222",
+          "noms": [
+                "Saint-Maurice-de-R\u00c3\u00a9mens"
+          ]
+    },
+    "01380": {
+          "nomActuel": "Saint-Nizier-le-Bouchoux",
+          "lat": "46.46027777777778",
+          "lon": "5.151666666666667",
+          "noms": [
+                "Saint-Nizier-le-Bouchoux"
+          ]
+    },
+    "01381": {
+          "nomActuel": "Saint-Nizier-le-D\u00c3\u00a9sert",
+          "lat": "46.05694444444444",
+          "lon": "5.147222222222223",
+          "noms": [
+                "Saint-Nizier-le-D\u00c3\u00a9sert"
+          ]
+    },
+    "01383": {
+          "nomActuel": "Saint-Paul-de-Varax",
+          "lat": "46.099722222222226",
+          "lon": "5.128888888888889",
+          "noms": [
+                "Saint-Paul-de-Varax"
+          ]
+    },
+    "01384": {
+          "nomActuel": "Saint-Rambert-en-Bugey",
+          "lat": "45.94694444444444",
+          "lon": "5.4375",
+          "noms": [
+                "Saint-Rambert-en-Bugey",
+                "Saint-Rambert"
+          ]
+    },
+    "01385": {
+          "nomActuel": "Saint-R\u00c3\u00a9my",
+          "lat": "46.19",
+          "lon": "5.169166666666667",
+          "noms": [
+                "Saint-R\u00c3\u00a9my"
+          ]
+    },
+    "01386": {
+          "nomActuel": "Saint-Sorlin-en-Bugey",
+          "lat": "45.88361111111111",
+          "lon": "5.374722222222222",
+          "noms": [
+                "Saint-Sorlin-en-Bugey"
+          ]
+    },
+    "01387": {
+          "nomActuel": "Saint-Sulpice",
+          "lat": "46.321111111111115",
+          "lon": "5.0424999999999995",
+          "noms": [
+                "Saint-Sulpice"
+          ]
+    },
+    "01388": {
+          "nomActuel": "Saint-Trivier-de-Courtes",
+          "lat": "46.46027777777778",
+          "lon": "5.082222222222222",
+          "noms": [
+                "Saint-Trivier-de-Courtes"
+          ]
+    },
+    "01389": {
+          "nomActuel": "Saint-Trivier-sur-Moignans",
+          "lat": "46.07333333333334",
+          "lon": "4.8975",
+          "noms": [
+                "Saint-Trivier-sur-Moignans"
+          ]
+    },
+    "01390": {
+          "nomActuel": "Saint-Vulbas",
+          "lat": "45.83388888888889",
+          "lon": "5.293055555555555",
+          "noms": [
+                "Saint-Vulbas"
+          ]
+    },
+    "01342": {
+          "nomActuel": "Sainte-Croix",
+          "lat": "45.894444444444446",
+          "lon": "5.053333333333333",
+          "noms": [
+                "Sainte-Croix"
+          ]
+    },
+    "01353": {
+          "nomActuel": "Sainte-Euph\u00c3\u00a9mie",
+          "lat": "45.973055555555554",
+          "lon": "4.796388888888889",
+          "noms": [
+                "Sainte-Euph\u00c3\u00a9mie"
+          ]
+    },
+    "01366": {
+          "nomActuel": "Sainte-Julie",
+          "lat": "45.89361111111111",
+          "lon": "5.278611111111111",
+          "noms": [
+                "Sainte-Julie"
+          ]
+    },
+    "01382": {
+          "nomActuel": "Sainte-Olive",
+          "lat": "46.019444444444446",
+          "lon": "4.934166666666667",
+          "noms": [
+                "Sainte-Olive"
+          ]
+    },
+    "01391": {
+          "nomActuel": "Salavre",
+          "lat": "46.36388888888889",
+          "lon": "5.346111111111111",
+          "noms": [
+                "Salavre"
+          ]
+    },
+    "01392": {
+          "nomActuel": "Samognat",
+          "lat": "46.25861111111111",
+          "lon": "5.576944444444444",
+          "noms": [
+                "Samognat"
+          ]
+    },
+    "01393": {
+          "nomActuel": "Sandrans",
+          "lat": "46.065",
+          "lon": "4.979722222222223",
+          "noms": [
+                "Sandrans"
+          ]
+    },
+    "01396": {
+          "nomActuel": "Sault-Br\u00c3\u00a9naz",
+          "lat": "45.86416666666667",
+          "lon": "5.398333333333333",
+          "noms": [
+                "Sault-Br\u00c3\u00a9naz"
+          ]
+    },
+    "01397": {
+          "nomActuel": "Sauverny",
+          "lat": "46.31527777777777",
+          "lon": "6.1147222222222215",
+          "noms": [
+                "Sauverny"
+          ]
+    },
+    "01398": {
+          "nomActuel": "Savigneux",
+          "lat": "46.00194444444445",
+          "lon": "4.848333333333333",
+          "noms": [
+                "Savigneux"
+          ]
+    },
+    "01399": {
+          "nomActuel": "S\u00c3\u00a9gny",
+          "lat": "46.29694444444444",
+          "lon": "6.073611111111111",
+          "noms": [
+                "S\u00c3\u00a9gny"
+          ]
+    },
+    "01400": {
+          "nomActuel": "Seillonnaz",
+          "lat": "45.80611111111111",
+          "lon": "5.490555555555556",
+          "noms": [
+                "Seillonnaz"
+          ]
+    },
+    "01401": {
+          "nomActuel": "Sergy",
+          "lat": "46.25222222222222",
+          "lon": "5.9991666666666665",
+          "noms": [
+                "Sergy"
+          ]
+    },
+    "01402": {
+          "nomActuel": "Sermoyer",
+          "lat": "46.500277777777775",
+          "lon": "4.981388888888889",
+          "noms": [
+                "Sermoyer"
+          ]
+    },
+    "01403": {
+          "nomActuel": "Serri\u00c3\u00a8res-de-Briord",
+          "lat": "45.80833333333333",
+          "lon": "5.454166666666667",
+          "noms": [
+                "Serri\u00c3\u00a8res-de-Briord",
+                "Serri\u00c3\u00a8res"
+          ]
+    },
+    "01404": {
+          "nomActuel": "Serri\u00c3\u00a8res-sur-Ain",
+          "lat": "46.15333333333333",
+          "lon": "5.451944444444445",
+          "noms": [
+                "Serri\u00c3\u00a8res-sur-Ain"
+          ]
+    },
+    "01405": {
+          "nomActuel": "Servas",
+          "lat": "46.13333333333333",
+          "lon": "5.166666666666667",
+          "noms": [
+                "Servas"
+          ]
+    },
+    "01406": {
+          "nomActuel": "Servignat",
+          "lat": "46.43416666666666",
+          "lon": "5.069999999999999",
+          "noms": [
+                "Servignat"
+          ]
+    },
+    "01407": {
+          "nomActuel": "Seyssel",
+          "lat": "45.958333333333336",
+          "lon": "5.830555555555556",
+          "noms": [
+                "Seyssel"
+          ]
+    },
+    "01408": {
+          "nomActuel": "Simandre-sur-Suran",
+          "lat": "46.226111111111116",
+          "lon": "5.417777777777778",
+          "noms": [
+                "Simandre-sur-Suran",
+                "Simandre"
+          ]
+    },
+    "01410": {
+          "nomActuel": "Sonthonnax-la-Montagne",
+          "lat": "46.23388888888889",
+          "lon": "5.5247222222222225",
+          "noms": [
+                "Sonthonnax-la-Montagne"
+          ]
+    },
+    "01411": {
+          "nomActuel": "Souclin",
+          "lat": "45.86805555555556",
+          "lon": "5.4255555555555555",
+          "noms": [
+                "Souclin"
+          ]
+    },
+    "01412": {
+          "nomActuel": "Sulignat",
+          "lat": "46.17833333333333",
+          "lon": "4.964166666666667",
+          "noms": [
+                "Sulignat"
+          ]
+    },
+    "01215": {
+          "nomActuel": "Surjoux-Lhopital",
+          "lat": "46.022777777777776",
+          "lon": "5.776666666666666",
+          "noms": [
+                "Surjoux-Lhopital"
+          ]
+    },
+    "01415": {
+          "nomActuel": "Talissieu",
+          "lat": "45.86805555555556",
+          "lon": "5.719444444444445",
+          "noms": [
+                "Talissieu"
+          ]
+    },
+    "01416": {
+          "nomActuel": "Tenay",
+          "lat": "45.91861111111111",
+          "lon": "5.510555555555555",
+          "noms": [
+                "Tenay"
+          ]
+    },
+    "01418": {
+          "nomActuel": "Thil",
+          "lat": "45.815555555555555",
+          "lon": "5.021944444444444",
+          "noms": [
+                "Thil"
+          ]
+    },
+    "01419": {
+          "nomActuel": "Thoiry",
+          "lat": "46.23722222222222",
+          "lon": "5.980555555555556",
+          "noms": [
+                "Thoiry"
+          ]
+    },
+    "01420": {
+          "nomActuel": "Thoissey",
+          "lat": "46.17222222222222",
+          "lon": "4.801111111111111",
+          "noms": [
+                "Thoissey"
+          ]
+    },
+    "01421": {
+          "nomActuel": "Torcieu",
+          "lat": "45.921388888888885",
+          "lon": "5.396111111111112",
+          "noms": [
+                "Torcieu"
+          ]
+    },
+    "01422": {
+          "nomActuel": "Tossiat",
+          "lat": "46.14194444444444",
+          "lon": "5.315833333333333",
+          "noms": [
+                "Tossiat"
+          ]
+    },
+    "01423": {
+          "nomActuel": "Toussieux",
+          "lat": "45.96138888888889",
+          "lon": "4.829444444444444",
+          "noms": [
+                "Toussieux"
+          ]
+    },
+    "01424": {
+          "nomActuel": "Tramoyes",
+          "lat": "45.87833333333333",
+          "lon": "4.968055555555556",
+          "noms": [
+                "Tramoyes"
+          ]
+    },
+    "01427": {
+          "nomActuel": "Tr\u00c3\u00a9voux",
+          "lat": "45.941111111111105",
+          "lon": "4.775",
+          "noms": [
+                "Tr\u00c3\u00a9voux"
+          ]
+    },
+    "01426": {
+          "nomActuel": "Val-Revermont",
+          "lat": "46.27222222222222",
+          "lon": "5.369999999999999",
+          "noms": [
+                "Val-Revermont"
+          ]
+    },
+    "01428": {
+          "nomActuel": "Valeins",
+          "lat": "46.11333333333334",
+          "lon": "4.870277777777778",
+          "noms": [
+                "Valeins"
+          ]
+    },
+    "01036": {
+          "nomActuel": "Valromey-sur-S\u00c3\u00a9ran",
+          "lat": "45.88138888888889",
+          "lon": "5.662222222222223",
+          "noms": [
+                "Valromey-sur-S\u00c3\u00a9ran"
+          ]
+    },
+    "01033": {
+          "nomActuel": "Valserh\u00c3\u00b4ne",
+          "lat": "46.108333333333334",
+          "lon": "5.826666666666666",
+          "noms": [
+                "Valserh\u00c3\u00b4ne",
+                "Bellegarde-sur-Valserine",
+                "Bellegarde",
+                "Musinens"
+          ]
+    },
+    "01429": {
+          "nomActuel": "Vandeins",
+          "lat": "46.218333333333334",
+          "lon": "5.08",
+          "noms": [
+                "Vandeins"
+          ]
+    },
+    "01430": {
+          "nomActuel": "Varambon",
+          "lat": "46.0425",
+          "lon": "5.314722222222222",
+          "noms": [
+                "Varambon"
+          ]
+    },
+    "01431": {
+          "nomActuel": "Vaux-en-Bugey",
+          "lat": "45.92805555555555",
+          "lon": "5.355833333333333",
+          "noms": [
+                "Vaux-en-Bugey"
+          ]
+    },
+    "01432": {
+          "nomActuel": "Verjon",
+          "lat": "46.34583333333334",
+          "lon": "5.351388888888889",
+          "noms": [
+                "Verjon"
+          ]
+    },
+    "01433": {
+          "nomActuel": "Vernoux",
+          "lat": "46.481944444444444",
+          "lon": "5.110833333333333",
+          "noms": [
+                "Vernoux"
+          ]
+    },
+    "01434": {
+          "nomActuel": "Versailleux",
+          "lat": "45.98111111111111",
+          "lon": "5.104444444444444",
+          "noms": [
+                "Versailleux"
+          ]
+    },
+    "01435": {
+          "nomActuel": "Versonnex",
+          "lat": "46.30305555555555",
+          "lon": "6.097777777777777",
+          "noms": [
+                "Versonnex"
+          ]
+    },
+    "01436": {
+          "nomActuel": "Vesancy",
+          "lat": "46.349444444444444",
+          "lon": "6.091388888888889",
+          "noms": [
+                "Vesancy"
+          ]
+    },
+    "01437": {
+          "nomActuel": "Vescours",
+          "lat": "46.47555555555556",
+          "lon": "5.025555555555555",
+          "noms": [
+                "Vescours"
+          ]
+    },
+    "01439": {
+          "nomActuel": "V\u00c3\u00a9sines",
+          "lat": "46.36",
+          "lon": "4.866111111111111",
+          "noms": [
+                "V\u00c3\u00a9sines"
+          ]
+    },
+    "01441": {
+          "nomActuel": "Vieu-d'Izenave",
+          "lat": "46.08166666666667",
+          "lon": "5.53",
+          "noms": [
+                "Vieu-d'Izenave"
+          ]
+    },
+    "01443": {
+          "nomActuel": "Villars-les-Dombes",
+          "lat": "46.00138888888889",
+          "lon": "5.029444444444445",
+          "noms": [
+                "Villars-les-Dombes",
+                "Villars"
+          ]
+    },
+    "01444": {
+          "nomActuel": "Villebois",
+          "lat": "45.843611111111116",
+          "lon": "5.435833333333334",
+          "noms": [
+                "Villebois"
+          ]
+    },
+    "01445": {
+          "nomActuel": "Villemotier",
+          "lat": "46.346111111111114",
+          "lon": "5.321111111111111",
+          "noms": [
+                "Villemotier"
+          ]
+    },
+    "01446": {
+          "nomActuel": "Villeneuve",
+          "lat": "46.02194444444444",
+          "lon": "4.8374999999999995",
+          "noms": [
+                "Villeneuve"
+          ]
+    },
+    "01447": {
+          "nomActuel": "Villereversure",
+          "lat": "46.19194444444444",
+          "lon": "5.398055555555556",
+          "noms": [
+                "Villereversure"
+          ]
+    },
+    "01448": {
+          "nomActuel": "Villes",
+          "lat": "46.09027777777778",
+          "lon": "5.784722222222222",
+          "noms": [
+                "Villes"
+          ]
+    },
+    "01449": {
+          "nomActuel": "Villette-sur-Ain",
+          "lat": "45.99055555555556",
+          "lon": "5.269444444444445",
+          "noms": [
+                "Villette-sur-Ain",
+                "Villette"
+          ]
+    },
+    "01450": {
+          "nomActuel": "Villieu-Loyes-Mollon",
+          "lat": "45.92527777777777",
+          "lon": "5.221388888888889",
+          "noms": [
+                "Villieu-Loyes-Mollon"
+          ]
+    },
+    "01451": {
+          "nomActuel": "Viriat",
+          "lat": "46.25",
+          "lon": "5.216666666666667",
+          "noms": [
+                "Viriat"
+          ]
+    },
+    "01452": {
+          "nomActuel": "Virieu-le-Grand",
+          "lat": "45.849444444444444",
+          "lon": "5.651666666666667",
+          "noms": [
+                "Virieu-le-Grand"
+          ]
+    },
+    "01454": {
+          "nomActuel": "Virignin",
+          "lat": "45.717222222222226",
+          "lon": "5.7125",
+          "noms": [
+                "Virignin"
+          ]
+    },
+    "01456": {
+          "nomActuel": "Vongnes",
+          "lat": "45.815555555555555",
+          "lon": "5.7252777777777775",
+          "noms": [
+                "Vongnes"
+          ]
+    },
+    "01457": {
+          "nomActuel": "Vonnas",
+          "lat": "46.21944444444445",
+          "lon": "4.991944444444444",
+          "noms": [
+                "Vonnas"
+          ]
+    },
+    "01186": {
+          "nomActuel": "Hostiaz",
+          "lat": "45.901666666666664",
+          "lon": "5.535",
+          "noms": [
+                "Hostiaz",
+                "Hostias"
+          ]
+    },
+    "01122": {
+          "nomActuel": "Cormaranche-en-Bugey",
+          "lat": "45.953611111111115",
+          "lon": "5.612222222222222",
+          "noms": [
+                "Cormaranche-en-Bugey",
+                "Cormaranche"
+          ]
+    },
+    "01126": {
+          "nomActuel": "Coupy",
+          "lat": "46.09805555555556",
+          "lon": "5.849444444444444",
+          "noms": [
+                "Coupy",
+                "Vanchy"
+          ]
+    }
+}

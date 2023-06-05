@@ -1,0 +1,336 @@
+{
+    "01170": {
+          "nomActuel": "B\u00c3\u00a9ard-G\u00c3\u00a9ovreissiat",
+          "lat": "46.190555555555555",
+          "lon": "5.5575",
+          "noms": [
+                "B\u00c3\u00a9ard-G\u00c3\u00a9ovreissiat",
+                "G\u00c3\u00a9ovreissiat"
+          ]
+    },
+    "01186": {
+          "nomActuel": "Hostiaz",
+          "lat": "45.901666666666664",
+          "lon": "5.535",
+          "noms": [
+                "Hostiaz",
+                "Hostias"
+          ]
+    },
+    "01077": {
+          "nomActuel": "Challes-la-Montagne",
+          "lat": "46.12638888888889",
+          "lon": "5.463333333333334",
+          "noms": [
+                "Challes-la-Montagne",
+                "Challes"
+          ]
+    },
+    "01165": {
+          "nomActuel": "Francheleins",
+          "lat": "46.074444444444445",
+          "lon": "4.809166666666666",
+          "noms": [
+                "Francheleins",
+                "Amareins-Francheleins-Cesseins"
+          ]
+    },
+    "01408": {
+          "nomActuel": "Simandre-sur-Suran",
+          "lat": "46.226111111111116",
+          "lon": "5.417777777777778",
+          "noms": [
+                "Simandre-sur-Suran",
+                "Simandre"
+          ]
+    },
+    "01088": {
+          "nomActuel": "Charnoz-sur-Ain",
+          "lat": "45.87305555555555",
+          "lon": "5.2225",
+          "noms": [
+                "Charnoz-sur-Ain",
+                "Charnoz"
+          ]
+    },
+    "01449": {
+          "nomActuel": "Villette-sur-Ain",
+          "lat": "45.99055555555556",
+          "lon": "5.269444444444445",
+          "noms": [
+                "Villette-sur-Ain",
+                "Villette"
+          ]
+    },
+    "01243": {
+          "nomActuel": "Messimy-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.05",
+          "lon": "4.764166666666667",
+          "noms": [
+                "Messimy-sur-Sa\u00c3\u00b4ne",
+                "Messimy"
+          ]
+    },
+    "01265": {
+          "nomActuel": "Montr\u00c3\u00a9al-la-Cluse",
+          "lat": "46.18333333333333",
+          "lon": "5.566666666666666",
+          "noms": [
+                "Montr\u00c3\u00a9al-la-Cluse",
+                "Montr\u00c3\u00a9al"
+          ]
+    },
+    "01263": {
+          "nomActuel": "Montmerle-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.08277777777778",
+          "lon": "4.7575",
+          "noms": [
+                "Montmerle-sur-Sa\u00c3\u00b4ne",
+                "Montmerle"
+          ]
+    },
+    "01370": {
+          "nomActuel": "Saint-Laurent-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.305",
+          "lon": "4.839166666666666",
+          "noms": [
+                "Saint-Laurent-sur-Sa\u00c3\u00b4ne",
+                "Saint-Laurent"
+          ]
+    },
+    "01031": {
+          "nomActuel": "Bellignat",
+          "lat": "46.2425",
+          "lon": "5.627222222222223",
+          "noms": [
+                "Bellignat",
+                "B\u00c3\u00a9lignat"
+          ]
+    },
+    "01021": {
+          "nomActuel": "Ars-sur-Formans",
+          "lat": "45.99277777777778",
+          "lon": "4.823611111111111",
+          "noms": [
+                "Ars-sur-Formans",
+                "Ars"
+          ]
+    },
+    "01033": {
+          "nomActuel": "Bellegarde-sur-Valserine",
+          "lat": "46.108333333333334",
+          "lon": "5.826666666666666",
+          "noms": [
+                "Bellegarde-sur-Valserine",
+                "Bellegarde",
+                "Musinens"
+          ]
+    },
+    "01079": {
+          "nomActuel": "Champagne-en-Valromey",
+          "lat": "45.904444444444444",
+          "lon": "5.679444444444445",
+          "noms": [
+                "Champagne-en-Valromey",
+                "Champagne"
+          ]
+    },
+    "01384": {
+          "nomActuel": "Saint-Rambert-en-Bugey",
+          "lat": "45.94694444444444",
+          "lon": "5.4375",
+          "noms": [
+                "Saint-Rambert-en-Bugey",
+                "Saint-Rambert"
+          ]
+    },
+    "01443": {
+          "nomActuel": "Villars-les-Dombes",
+          "lat": "46.00138888888889",
+          "lon": "5.029444444444445",
+          "noms": [
+                "Villars-les-Dombes",
+                "Villars"
+          ]
+    },
+    "01004": {
+          "nomActuel": "Amb\u00c3\u00a9rieu-en-Bugey",
+          "lat": "45.963055555555556",
+          "lon": "5.354166666666666",
+          "noms": [
+                "Amb\u00c3\u00a9rieu-en-Bugey",
+                "Amb\u00c3\u00a9rieu"
+          ]
+    },
+    "01053": {
+          "nomActuel": "Bourg-en-Bresse",
+          "lat": "46.205555555555556",
+          "lon": "5.228888888888889",
+          "noms": [
+                "Bourg-en-Bresse",
+                "Bourg"
+          ]
+    },
+    "01403": {
+          "nomActuel": "Serri\u00c3\u00a8res-de-Briord",
+          "lat": "45.80833333333333",
+          "lon": "5.454166666666667",
+          "noms": [
+                "Serri\u00c3\u00a8res-de-Briord",
+                "Serri\u00c3\u00a8res"
+          ]
+    },
+    "01266": {
+          "nomActuel": "Montrevel-en-Bresse",
+          "lat": "46.337500000000006",
+          "lon": "5.128888888888889",
+          "noms": [
+                "Montrevel-en-Bresse",
+                "Montrevel"
+          ]
+    },
+    "01145": {
+          "nomActuel": "Dompierre-sur-Veyle",
+          "lat": "46.07361111111111",
+          "lon": "5.204166666666667",
+          "noms": [
+                "Dompierre-sur-Veyle",
+                "Dompierre"
+          ]
+    },
+    "01295": {
+          "nomActuel": "Peyzieux-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.12861111111111",
+          "lon": "4.816944444444444",
+          "noms": [
+                "Peyzieux-sur-Sa\u00c3\u00b4ne",
+                "Peyzieux"
+          ]
+    },
+    "01023": {
+          "nomActuel": "Asni\u00c3\u00a8res-sur-Sa\u00c3\u00b4ne",
+          "lat": "46.38305555555556",
+          "lon": "4.883333333333333",
+          "noms": [
+                "Asni\u00c3\u00a8res-sur-Sa\u00c3\u00b4ne",
+                "Asni\u00c3\u00a8res"
+          ]
+    },
+    "01344": {
+          "nomActuel": "Saint-Denis-l\u00c3\u00a8s-Bourg",
+          "lat": "46.2025",
+          "lon": "5.19",
+          "noms": [
+                "Saint-Denis-l\u00c3\u00a8s-Bourg",
+                "Saint-Denis-le-Ceyz\u00c3\u00a9riat"
+          ]
+    },
+    "01122": {
+          "nomActuel": "Cormaranche-en-Bugey",
+          "lat": "45.953611111111115",
+          "lon": "5.612222222222222",
+          "noms": [
+                "Cormaranche-en-Bugey",
+                "Cormaranche"
+          ]
+    },
+    "01126": {
+          "nomActuel": "Coupy",
+          "lat": "46.09805555555556",
+          "lon": "5.849444444444444",
+          "noms": [
+                "Coupy",
+                "Vanchy"
+          ]
+    },
+    "01336": {
+          "nomActuel": "Saint-Andr\u00c3\u00a9-sur-Vieux-Jonc",
+          "lat": "46.1575",
+          "lon": "5.147222222222223",
+          "noms": [
+                "Saint-Andr\u00c3\u00a9-sur-Vieux-Jonc",
+                "Saint-Andr\u00c3\u00a9-le-Panoux"
+          ]
+    },
+    "01345": {
+          "nomActuel": "Saint-Denis-en-Bugey",
+          "lat": "45.94944444444444",
+          "lon": "5.328888888888889",
+          "noms": [
+                "Saint-Denis-en-Bugey",
+                "Saint-Denis-le-Chosson"
+          ]
+    },
+    "01143": {
+          "nomActuel": "Divonne-les-Bains",
+          "lat": "46.35666666666667",
+          "lon": "6.142777777777778",
+          "noms": [
+                "Divonne-les-Bains",
+                "Divonne"
+          ]
+    },
+    "01354": {
+          "nomActuel": "Saint-Genis-Pouilly",
+          "lat": "46.243611111111115",
+          "lon": "6.025",
+          "noms": [
+                "Saint-Genis-Pouilly",
+                "Pouilly-Saint-Genis"
+          ]
+    },
+    "01022": {
+          "nomActuel": "Artemare",
+          "lat": "45.875277777777775",
+          "lon": "5.693611111111111",
+          "noms": [
+                "Artemare",
+                "Yon-Artemare"
+          ]
+    },
+    "01277": {
+          "nomActuel": "Nivollet-Montgriffon",
+          "lat": "45.99111111111111",
+          "lon": "5.445833333333334",
+          "noms": [
+                "Nivollet-Montgriffon",
+                "Montgriffon"
+          ]
+    },
+    "01194": {
+          "nomActuel": "Jassans-Riottier",
+          "lat": "45.986111111111114",
+          "lon": "4.7575",
+          "noms": [
+                "Jassans-Riottier",
+                "Jassans"
+          ]
+    },
+    "01067": {
+          "nomActuel": "Ceignes",
+          "lat": "46.12083333333334",
+          "lon": "5.498333333333333",
+          "noms": [
+                "Ceignes",
+                "\u00c3\u2030tables"
+          ]
+    },
+    "01056": {
+          "nomActuel": "Boyeux-Saint-J\u00c3\u00a9r\u00c3\u00b4me",
+          "lat": "46.03055555555555",
+          "lon": "5.457222222222223",
+          "noms": [
+                "Boyeux-Saint-J\u00c3\u00a9r\u00c3\u00b4me",
+                "Saint-J\u00c3\u00a9r\u00c3\u00b4me"
+          ]
+    },
+    "01160": {
+          "nomActuel": "Ferney-Voltaire",
+          "lat": "46.255833333333335",
+          "lon": "6.108055555555556",
+          "noms": [
+                "Ferney-Voltaire",
+                "Ferney"
+          ]
+    }
+}

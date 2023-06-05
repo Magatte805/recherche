@@ -1,0 +1,173 @@
+
+  .city-list {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .city-card {
+    width: calc(50% - 20px);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  
+.city-card:nth-child(odd) {
+    background-color:rgba(34, 200, 155, 0.5)
+  }
+  
+  .city-card:nth-child(even) {
+    background-color: #ddd;
+  }
+  
+  .city {
+    margin-top: 10px;
+  }
+  
+ 
+
+  .city-card.selected {
+    background-color: transparent;
+    border: 1px solid #ccc;
+  }
+  
+ 
+  .button {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  .button{
+    background-color:rgba(34, 200, 155, 0.5);
+    font-size: 15px;
+  }
+  .menu {
+    position:absolute;
+    z-index: 1;
+     
+     width: 30%;
+     
+  }
+  
+  .menu h1 {
+    color: white;
+    background-color: rgb(27, 137, 174);
+    padding: 2px;
+    margin: 0.1%;
+  }
+  
+  .burger-shower {
+    display: none;
+    background-color: rgb(27, 137, 174);
+    transition: width 2s, height 2s;
+  }
+  
+  .burger-shower:checked ~ .burger-menu {
+    display: block;
+    height: 500px;
+    background-color: rgb(27, 137, 174);
+    margin-top: 0%;  
+  }
+    
+  .hamburger {
+    display:block;
+    width: 3.4em;
+    height: 2.4em;
+    line-height: .1em;
+    border: .1em solid #ddd;
+    padding: 0 .4em .4em;
+    background-color: rgb(27, 137, 174);
+  }
+  
+  .hamburger hr {
+    color: #ddd;
+    height: .1em;
+    border: 0;
+    background: #ddd;
+    /* border: none; */
+  }
+  
+  .burger-menu {
+     display:none;
+  }
+  
+  .burger-menu li {
+    display: inline-block;
+  
+    
+  }
+  
+  .burger-menu li input {
+    width: 60%;
+  }
+  
+  .burger-menu li button {
+    width: 35%;
+    
+  }
+  
+  
+  .rechercheCommune button {
+    overflow: hidden;
+    text-overflow: clip;
+  }
+
+
+  .history{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .history-city-overflow {
+    height: 300px; 
+    overflow: auto;
+  }
+
+  .history-image{
+    width: 100%;
+    padding-bottom: 100%;
+    position: relative;
+  }
+
+  .history-city-image {
+    position: absolute;
+    width: 100%;
+    height: 55%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .history-city-name {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+  }  
+  
+  .history-city-details {
+    position: fixed;
+    top:90%;
+    right: 50%;
+    transform: translate(-70%, -60%);
+    background-color: #ddd;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+
+  .marker{
+    border-radius: 20px;
+  }

@@ -1,0 +1,26 @@
+.leaflet-div-icon {
+    background-color: transparent;
+    border: none;
+}
+
+.leaflet-tooltip {
+    background-color: transparent;
+    border: none;
+    font-weight: bolder;
+    font-size: 240%;
+    color: #fff;
+    box-shadow: none;
+}
+
+.leaflet-popup-content-wrapper {
+    text-align: center;
+}
+
+.leaflet-popup-content p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.leaflet-popup-content h2 {
+    margin-bottom: 0%;
+}
